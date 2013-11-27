@@ -61,6 +61,7 @@ PLUGIN_PATH = os.path.join(os.environ.get('HOME'),
                            'Opensource/karlgrz.com-plugins')
 PLUGINS = ['summary']
 
+SHOW_SUMMARY = True
 
 # The theme file should be updated so that the base header contains the line:
 #
