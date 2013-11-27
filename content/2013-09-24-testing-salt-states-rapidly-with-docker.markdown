@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2013-09-24 17:26
 slug: testing-salt-states-rapidly-with-docker
-title: Testing Salt states rapidly with docker
+title: Testing Salt States Rapidly with Docker
 category: Coding
 tags: salt, 2013, docker
 
