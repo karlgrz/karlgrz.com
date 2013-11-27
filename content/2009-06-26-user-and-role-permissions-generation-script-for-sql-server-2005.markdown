@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2009-06-26 15:48:00
 slug: user-and-role-permissions-generation-script-for-sql-server-2005
-title: User and Role Permissions Generation script for SQL Server 2005
+title: User and Role Permissions Generation Script for SQL Server 2005
 category: Coding
 tags: sql, sqlserver, tsql
 

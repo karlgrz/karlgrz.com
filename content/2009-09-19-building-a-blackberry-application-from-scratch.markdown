@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2009-09-19 18:58:00
 slug: building-a-blackberry-application-from-scratch
-title: Building a Blackberry application from scratch
+title: Building a Blackberry Application From Scratch
 category: Coding
 tags: Blackberry, JavaME, Mobile
 

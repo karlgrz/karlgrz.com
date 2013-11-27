@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2009-08-17 21:07:00
 slug: icefaces-is-becoming-my-best-friend
-title: ICEFaces is becoming my best friend...
+title: ICEFaces is Becoming My Best Friend...
 category: Coding
 tags: ICEFaces, JavaEE, JSF
 

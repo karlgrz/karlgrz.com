@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2009-06-26 15:45:00
 slug: giving-tomcat-more-memory-in-an-eclipse-development-environment
-title: Giving Tomcat more memory in an Eclipse development environment
+title: Giving Tomcat More Memory in an Eclipse Development Environment
 category: Coding
 tags: eclipse, memory, tomcat
 

@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2011-12-03 02:40:00
 slug: how-do-i-download-imgburn
-title: How do I download ImgBurn?
+title: How Do I Download ImgBurn?
 category: General
 tags: imgburn, headache
 

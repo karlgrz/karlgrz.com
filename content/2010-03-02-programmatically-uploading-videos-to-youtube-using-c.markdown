@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2010-03-02 17:59:00
 slug: programmatically-uploading-videos-to-youtube-using-c
-title: Programmatically uploading videos to YouTube using C#
+title: Programmatically Uploading Videos to YouTube Using C#
 category: Coding
 tags: .net, c#, youtube
 

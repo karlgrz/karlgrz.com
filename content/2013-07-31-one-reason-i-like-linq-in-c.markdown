@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2013-07-31 03:29:22
 slug: one-reason-i-like-linq-in-c
-title: One reason I like LINQ in C#
+title: One Reason I Like LINQ in C#
 category: Coding
 tags: .net, 2013, c#, linq
 

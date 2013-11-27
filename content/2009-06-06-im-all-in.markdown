@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2009-06-06 09:00:00
 slug: im-all-in
-Title: I'm all in...
+Title: I'm All In...
 category: General
 tags: introduction 
 

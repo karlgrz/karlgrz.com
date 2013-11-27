@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2009-09-17 21:45:00
 slug: stream-an-excel-workbook-to-a-client
-title: Stream an Excel workbook to a client
+title: Stream an Excel Workbook to a Client
 category: Coding
 tags: ICEFaces, JavaEE, JSF, Servlet
 

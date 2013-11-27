@@ -1,7 +1,8 @@
 author: karlgrz
 comments: true
 date: 2013-09-18 17:53
-title: Stub remote API calls locally with nginx
+slug: stub-remote-api-calls-locally-with-nginx
+title: Stub Remote API Calls Locally with Nginx
 category: Coding
 tags: nginx, 2013, distributed, api, stub
 

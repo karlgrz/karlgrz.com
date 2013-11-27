@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2013-01-23 01:44:06
 slug: problem-with-running-an-mvc3-project-on-iis-after-opening-and-building-in-visual-studio-2012
-title: Problem with running an MVC3 project on IIS after opening and building in Visual Studio 2012
+title: Problem With Running an MVC3 Project on IIS After Opening and Building in Visual Studio 2012
 category: Coding
 tags: .net, 2013, c#, iis, mvc3, visual studio 2012, Web
 

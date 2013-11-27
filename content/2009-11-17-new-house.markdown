@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2009-11-17 16:37:00
 slug: new-house
-title: New house!
+title: New House!
 category: House
 tags: House
 

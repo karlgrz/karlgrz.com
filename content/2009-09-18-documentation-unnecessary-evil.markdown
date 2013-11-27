@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2009-09-18 18:22:00
 slug: documentation-unnecessary-evil
-title: Documentation...(un)necessary evil?!
+title: Documentation...(Un)Necessary Evil?!
 category: Coding
 tags: Boredom, Documentation
 

@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2013-01-29 06:28:40
 slug: a-preview-of-my-silly-little-python-mash-up-generator
-title: A preview of my silly little python mash up generator...
+title: A Preview of My Silly Little Python Mash Up Generator...
 category: Coding
 tags: python, flask, echonest, mashups, zeromq, mastodon, milli vanilli
 

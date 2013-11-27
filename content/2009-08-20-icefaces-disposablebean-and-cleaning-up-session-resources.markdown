@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2009-08-20 18:42:00
 slug: icefaces-disposablebean-and-cleaning-up-session-resources
-title: ICEFaces DisposableBean and cleaning up session resources
+title: ICEFaces DisposableBean and Cleaning Up Session Resources
 category: Coding
 tags: ICEFaces, JavaEE, javascript, JSF, Session-Management
 

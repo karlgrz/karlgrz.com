@@ -2,7 +2,7 @@ author: karlgrz
 comments: true
 date: 2013-03-07 14:55:27
 slug: monstermash-flask-zeromq-and-echonest-remix
-title: MonsterMash: Flask, ZeroMQ, and EchoNest remix
+title: MonsterMash: Flask, ZeroMQ, and EchoNest Remix
 category: Coding
 tags: 2013, distributed, dreamhost, ec2, echonest, python, remix, zeromq
 
