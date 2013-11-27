@@ -3,7 +3,7 @@ comments: true
 date: 2009-11-17 16:37:00
 slug: new-house
 title: New House!
-category: House
+category: General 
 tags: House
 
 As of October 26th, 2009, I am a new homeowner!  
