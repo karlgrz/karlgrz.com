@@ -32,4 +32,4 @@ After that, run this to reboot the pi:
 sudo reboot
 ```
 
-Once it starts back up you should see a message displaying your pi's new 192.168.*.* IP address handed out from your router.
+Once it starts back up you should see a message displaying your pi's new IP address handed out from your router displayed during boot.
