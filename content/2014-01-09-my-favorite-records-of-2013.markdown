@@ -35,7 +35,7 @@ The sophomore record from Tesseract. 4 songs divided into 10 tracks. All clean v
 ## 21.) Russian Circles - Memorial
 [![](/images/2014-01-09-my-favorite-records-of-2013/Russian_Circles_Memorial.jpg)](https://play.spotify.com/album/2169qq2aiycEtmgwEQlwgp)  
 
-I love this band. They make some excellent atmostpheric instrumental metal. Memorial is no exception. 
+I love this band. They make some excellent atmospheric instrumental metal. Memorial is no exception. 
 
 ## 20.) Dead Letter Circus - The Catalyst Fire
 [![](/images/2014-01-09-my-favorite-records-of-2013/Dead_Letter_Circus_The_Catalyst_Fire.jpg)](https://play.spotify.com/album/25X8f6OeGGQkttPalRgTPZ)  
