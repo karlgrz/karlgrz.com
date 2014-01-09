@@ -6,7 +6,7 @@ title: My Favorite Records of 2013
 category: Music
 tags: 2013, Music
 
-I listened to a ton of new music this year. Lots of metal, a bit of hip-hop, a ton of retro / psychedelic stuff. A lot of REALLY BAD garbage.
+I listened to quite a lot of new music this year. Lots of metal, a bit of hip-hop, a ton of retro / psychedelic stuff. A lot of REALLY BAD garbage.
 
 These are all the albums that stuck with me somehow. Mostly, these are the albums I played more than once. Overall, I'd say 2013 was one of the best musical outputs of any year this century (so far). Here's my favorites...
 
