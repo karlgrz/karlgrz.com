@@ -114,7 +114,7 @@ First time I listened to this record I was impressed, but I wasn't falling in lo
 ## 6.) Nine Inch Nails - Hesitation Marks
 [![](/images/2014-01-09-my-favorite-records-of-2013/Nine_Inch_Nails_Hesitation_Marks.jpg)](https://play.spotify.com/album/7GwKmNXAFgODzJOwaEVyji)  
 
-Trent Reznor came back with a vengeance on Hesitation Marks, and it delivered. This record reminded me a lot of With Teeth or Year Zero than anything else, and it rocked. Lots of catchy NIN type stuff, and the songs are still stuck in my head. I'm pissed I didn't get to catch any of the live shows, the production looked incredible.
+Trent Reznor came back with a vengeance on Hesitation Marks, and it delivered. This record reminded me a lot of With Teeth or Year Zero more than anything else, and it rocked. Lots of catchy NIN type stuff, and the songs are still stuck in my head. I'm pissed I didn't get to catch any of the live shows, the production looked incredible.
 
 ## 5.) Uncle Acid & The Deadbeats - Mind Control
 [![](/images/2014-01-09-my-favorite-records-of-2013/Uncle_Acid_and_The_Deadbeats_Mind_Control.png)](https://play.spotify.com/album/2jua3VjPTrZI7JNk2EVOcA)  
