@@ -160,45 +160,45 @@ I like Radiohead, but I think this blows everything they've done out of the wate
 I look forward to the next record they write, but until then, I'm pretty sure I'll be playing this one a lot in the months / years to come. Album of the year, hands down.
 
 ## Honorable Mentions
-- Ihsahn - Das Seelenbrechen
-- Sound City - Reel to Reel
-- Spiritual Beggars - Earth Blues
-- Mustasch - Sounds Like Hell, Feels Like Heaven 
-- Oblivion - Called to Rise
-- Mouth of the Architect - Dawning
-- Locrian - Return to Annihilation
-- Amon Amarth - Deceiver of the Gods
-- Scorpion Child - Scorpion Child
-- Autopsy - The Headless Ritual
 - .letlive - The Blackest Beautiful
-- Phantom Glue - A War of Light Cones
-- Stomach Earth - Stomach Earth
-- Pyres - Year of Sleep
-- Pyrramids - Brightest Darkest Day
-- True Widow - Circumambulation
-- Karnivool - Asymmetry
-- Rosetta - The Anaesthete
-- We Butter the Bread With Butter - Goldkinder
-- The Ongoing Concept - SAloon
+- A Storm of Light - Nations to Flames
+- Alice in Chains - The Devil Put Dinosaurs Here
+- Amon Amarth - Deceiver of the Gods
 - Arctic Monkeys - AM
+- Autopsy - The Headless Ritual
+- Bad Rabbits - American Love
+- Black Sabbath - 13
 - Black Tusk - Tend No Wounds
+- Bring Me The Horizon - Sempiternal
 - Cult of Luna - Vertikal II
 - Felix Martin - The Scenic Album
 - Haken - The Mountain
-- In Solitude - Sister
-- Toxic Holocaust - Chemistry of Consciousness
-- Intronaut - Habitual Levitations
-- Soilwork - The Living Infinite
-- Killswitch Engage - Disarm the Descent
-- Bring Me The Horizon - Sempiternal
-- Alice in Chains - The Devil Put Dinosaurs Here
-- Orchid - The Mouths of Madness
-- Bad Rabbits - American Love
-- She & Him - Volume 3
 - I is Another - I is Another
-- Black Sabbath - 13
-- Revocation - Revocation
-- Volto - Incitare
-- Windhand - Soma
+- Ihsahn - Das Seelenbrechen
+- In Solitude - Sister
+- Intronaut - Habitual Levitations
+- Karnivool - Asymmetry
+- Killswitch Engage - Disarm the Descent
+- Locrian - Return to Annihilation
+- Mouth of the Architect - Dawning
+- Mustasch - Sounds Like Hell, Feels Like Heaven 
 - Norma Jean - Wrongdoers
-- A Storm of Light - Nations to Flames
+- Oblivion - Called to Rise
+- Orchid - The Mouths of Madness
+- Phantom Glue - A War of Light Cones
+- Pyres - Year of Sleep
+- Pyrramids - Brightest Darkest Day
+- Revocation - Revocation
+- Rosetta - The Anaesthete
+- Scorpion Child - Scorpion Child
+- She & Him - Volume 3
+- Soilwork - The Living Infinite
+- Sound City - Reel to Reel
+- Spiritual Beggars - Earth Blues
+- Stomach Earth - Stomach Earth
+- The Ongoing Concept - SAloon
+- Toxic Holocaust - Chemistry of Consciousness
+- True Widow - Circumambulation
+- Volto - Incitare
+- We Butter the Bread With Butter - Goldkinder
+- Windhand - Soma
