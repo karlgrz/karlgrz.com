@@ -131,7 +131,7 @@ I think this is the record I listened to the most out of anything that came out 
 
 This record is terrifyingly beautiful. I listened to it the day it came out before everyone started praising the hell out of it (though, to be fair, people that leaked it were praising it like crazy long before the release date). I was excited to check it out because I had never heard of them before. Blown away is an understatement.  
 
-This record sounds like the band I would want to be in if I was a drummer. The drumming on this record is phenomenal. It's not the most technical or fast or whatever, but it is SO DAMN GOOD and so atmostpheric and rhythmic that it makes me want to be drummer.  
+This record sounds like the band I would want to be in if I was a drummer. The drumming on this record is phenomenal. It's not the most technical or fast or whatever, but it is SO DAMN GOOD and so atmospheric and rhythmic that it makes me want to be drummer.  
 
 The guitars are epic. I love the way Kerry McCoy goes from some insanely black metal trill picking riff almost instantaneously into an epic thunderstorm of hanging chords and lush melodies. 
 
