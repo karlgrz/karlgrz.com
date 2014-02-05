@@ -4,7 +4,7 @@ date: 2013-03-25 13:39:34
 slug: about
 title: About
 
-Hi! I'm a software engineer for [Mediafly](http://www.mediafly.com) in Chicago, IL. Primarily I write C# that runs on mono, though I'm pretty much open to learning anything.
+Hi! I'm a software engineer for [Mediafly](http://www.mediafly.com) in Chicago, IL. I've found myself liking python, go, erlang, and C# these days.  
 
 Reach out to me through the following avenues:
 
