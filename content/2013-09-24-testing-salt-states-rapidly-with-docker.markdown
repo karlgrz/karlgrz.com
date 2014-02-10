@@ -102,7 +102,7 @@ Now we want to mount our Salt states repo and the salt-bootstrap repo INSIDE tha
 Start the Docker container like this to do that (replacing your local paths as necessary):
 
 ```
-sudo ./docker run -i -v /home/karl/workspace/salt-bootstrap:/srv/salt-bootstrap -v /home/karl/workspace/salt-states:/srv/salt -t karlgrz/salt-base /bin/bash
+sudo docker run -i -v /home/karl/workspace/salt-bootstrap:/srv/salt-bootstrap -v /home/karl/workspace/salt-states:/srv/salt -t karlgrz/salt-base /bin/bash
 ```
 
 Ok, now if you cd in to /srv/salt in our Docker container, you will see all the code from /home/karl/workspace/salt-states, and /srv/salt-bootstrap contains the salt-bootstrap stuff. 
