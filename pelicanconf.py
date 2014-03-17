@@ -55,10 +55,8 @@ NOTEBOOK_DIR = 'downloads/notebooks'
 # Theme and plugins
 #  Theme requires http://github.com/duilio/pelican-octopress-theme/
 #  Plugins require http://github.com/getpelican/pelican-plugins/
-THEME = os.path.join(os.environ.get('HOME'),
-                     'Opensource/karlgrz.com-theme/')
-PLUGIN_PATH = os.path.join(os.environ.get('HOME'),
-                           'Opensource/karlgrz.com-plugins')
+THEME = os.path.join('../karlgrz.com-theme')
+PLUGIN_PATH = os.path.join('../karlgrz.com-plugins')
 PLUGINS = ['summary']
 
 SHOW_SUMMARY = False 
