@@ -5,3 +5,4 @@ _build
 _nb_header.html
 *.pid
 *.log
+.sass-cache
