@@ -1,0 +1,44 @@
+author: karlgrz 
+comments: true
+date: 2009-06-06 09:00:00
+slug: im-all-in
+Title: I'm All In...
+category: General
+tags: introduction 
+
+I've been putting this off for such a long time.  
+  
+I remember back to a time that was not too long ago, before I had completed my undergraduate studies. I distinctly recall feeling like I had enough things running around inside my head to fill an entire library of novels. I remember imagining vast wastelands spanning half a globe, creatures from the dark void of space, and entire civilizations of beings that I had never hoped of ever meeting. I had such a spontaneously creative imagination. Nothing could squelch it, either. 24/7, continuously flowing ingenuity. Music was coming out of my fingers into my guitar at a scarily constant pace. I was doing well in school. I was doing as much outside of school in personal projects to whet my teeth on new coding techniques and languages as I could. I was working just enough to get by, and the rest of my time was devoted to kicking back and having fun. I loved life, and it sure as hell loved me back.  
+  
+Then I got a job in a cubicle.  
+  
+I can't believe how much different life is inside the walls of a an office building. It is a completely new ecosystem that has yet to be documented. Literally, because I swear next to NOTHING has been documented (stupid pun...sorry, but there will probably be more). It is an environment that doesn't care about too much more than a bottom line in the grand scheme of things. I mean, don't get me wrong. The people that are in immediate contact are all good natured people, and the company takes care of you, sure. Actually, they are one of the only reason to keep coming back in.  
+  
+But the whole idea of a corporation just kind of hurts me inside a little bit.  
+  
+The entire mindset of "Hey, you're gonna do exactly what we tell you otherwise we're gonna find someone else who will" is kind of scary. I seem to have created a sense of standard for myself over the last 3 years of how I want to do my work, and I know it does not include that vision. It includes taking the time to get something right the first time. It involves following good practices, but not to the point where I'm trying to shoehorn an elephant into a movie seat. I find myself always striving to improve my codebase.  
+  
+Don't get me wrong. I want to get things done just as much as the next guy. Not delivering anything is kind of failing, in my opinion. Why work on something for so long and put so much of yourself into it if nobody is ever going to see or use it?  
+  
+The main motivating factor in my creations is the satisfaction I get from using something I made. Guilty as charged. I love writing code and seeing the outcome of what I have created. I have loved computers since I was just a wee lad and my dad brought home an old 286 with MS-DOS. I was barely able to get a game running on it at first, but I was drawn to them. Like a deer stuck in the headlights, I just couldn't shake the grasp. Computers had gotten ahold of me and have never really loosened their strangle on me.  
+  
+And it just seems to me that a lot of my peers don't have that kind of drive. They don't have that emotion in their voice when they talk about coding. They don't get excited when they finally discover a work around for the limitation of a third-party library they are using. I don't see any kind of fire in their eyes when they talk about an algorithm that took them the better part of an entire day to even get down on paper.  
+  
+And that's fine.  
+  
+I've got nothing against anyway in this profession for just wanting to get in, get paid, and go home. In fact, I applaud you for the ability to just turn it off and continuing on in reality.  
+  
+But I want to get better.  
+  
+I know I'm not the best coder around. I know I'm not Anders Hejlsberg or Scott Guthrie or Bjarne Stroustrap or insert name of great coder here. Honestly, I'll probably never be that good. I just want to get better.  
+  
+I like my job. I like the people I work with. But I really dislike working on internal projects as a cost center. I really want to find out what it feels like to be on the front lines for a real software company, not just supporting another department.  
+  
+And I want to get better.  
+  
+I've been putting off recording my thoughts and ideas for far too long now. It seems like an eternity since I last kept any kind of development journal, and I hope to share my experiences with the world. Maybe some of it will be useful to someone out there. Maybe this will be my inspiration to push myself even farther. We seem to learn more as a teacher than a student, right? I consider myself a poor teacher, but I always seem to teach myself the most when I am trying to help someone else. I hope to share my coding mishaps, questions, answers, and opinions with you all in hopes of bettering myself and learning something new.  
+  
+My views have definitely gone back to normal since I started working in the real world. My creativity seems to have come back. The music is sounding the way it should be. Yet I can't help but wish I was in a different place, making something that was truly worthwhile to everyone (or even just someone).  
+  
+One of these days...  
+
