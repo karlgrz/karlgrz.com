@@ -27,14 +27,14 @@ In the end, I found a solution that fits all my criteria and I have been very ha
 When I read that HN thread I was introduced to a little tool called [pass](http://passwordstore.org/), which is a password management tool following the [Unix philosophy](http://en.wikipedia.org/wiki/Unix_philosophy). Behind the scenes it is essentially a wrapper around gpg (or gpg2) and git, and it works very well. After a little research I was sold. It has a functional Android client ([Password Store](https://github.com/zeapo/Android-Password-Store) which also relies on [OpenKeychain](http://www.openkeychain.org)), and a functional native client ([QtPass](https://github.com/IJHack/qtpass)) for most OS's, so if I did decide I needed to use this in a VM or a different platform in the future I should be covered.
 
 ## GPG
-I won't regurgitate key generation here, I will just link to the excellent resources I used to generate my key pair:
+I won't regurgitate the key generation process here, as I feel others have already done this exceptionally well. I will just link to the resources I used to generate my key pair:
 
 - [https://alexcabal.com/creating-the-perfect-gpg-keypair/](https://alexcabal.com/creating-the-perfect-gpg-keypair/) (this is the one I followed very closely)
 - [https://www.esev.com/blog/post/2015-01-pgp-ssh-key-on-yubikey-neo/](https://www.esev.com/blog/post/2015-01-pgp-ssh-key-on-yubikey-neo/)
 - [https://drupalwatchdog.com/blog/2015/6/yubikey-neo-and-better-password-manager-pass](https://drupalwatchdog.com/blog/2015/6/yubikey-neo-and-better-password-manager-pass)
 - [http://blog.josefsson.org/2014/06/23/offline-gnupg-master-key-and-subkeys-on-yubikey-neo-smartcard/](http://blog.josefsson.org/2014/06/23/offline-gnupg-master-key-and-subkeys-on-yubikey-neo-smartcard/)
 
-For the most part, I had a smooth time generating my key pair. I did everything very, very slowly so I understood every step of the way, so ultimately it took an incredibly long time. There is -so- much information online about this stuff buried in forum posts and github issues. These 4 posts captured nearly everything I needed to know about creating a nice key pair that I feel is reasonably private and secure.
+For the most part, I had a smooth time generating my key pair. I did everything very, very slowly so I understood every step of the way, so ultimately it took an incredibly long time. There is _so_ much information online about this stuff buried in forum posts and github issues. These 4 posts captured nearly everything I needed to know about creating a nice key pair that I feel is reasonably private and secure.
 
 ## Enter the Yubikey
 
@@ -52,7 +52,7 @@ One thing that didn't work well was setting GNUPGHOME directly to the USB drive 
 
 ## 4096 v. 2048
 
-When I first generated my key pair I made the subkeys all 4096 bit, thinking that "moar datas" has to be better. Practically speaking, that is the truth. However, Yubikey NEO only supports subkeys up to 2048 bit, which, [after](https://www.yubico.com/2015/02/big-debate-2048-4096-yubicos-stand/) [some](http://danielpocock.com/rsa-key-sizes-2048-or-4096-bits) [research](http://security.stackexchange.com/questions/65174/4096-bit-rsa-encryption-keys-vs-2048), isn't a huge deal depending on who you ask, and 2048 bit seems to be sufficient for me. Considering my private master key pair is 4096 bit, when a Yubikey -does- support 4096 bit subkeys, I should be set without having to generate a new master private key pair.
+When I first generated my key pair I made the subkeys all 4096 bit, thinking that "moar datas" has to be better. Practically speaking, that is the truth. However, Yubikey NEO only supports subkeys up to 2048 bit, which, [after](https://www.yubico.com/2015/02/big-debate-2048-4096-yubicos-stand/) [some](http://danielpocock.com/rsa-key-sizes-2048-or-4096-bits) [research](http://security.stackexchange.com/questions/65174/4096-bit-rsa-encryption-keys-vs-2048), isn't a huge deal depending on who you ask, and 2048 bit seems to be sufficient for me. Considering my private master key pair is 4096 bit, when a Yubikey _does_ support 4096 bit subkeys, I should be set without having to generate a new master private key pair.
 
 ## gnome-keyring
 
@@ -85,7 +85,7 @@ This seems to be a bit more straight forward on OS X. "Linux UX is rough?" Pfft 
 
 ## Re-encrypt
 
-The last thing that was not very clear is when you generate new subkeys you need to re-init your pass repo with the new encryption subkey. For example, let's assume the master private key pair has been stored away and we are on our development laptop. Let's say this is the output of gpg --list-secret-keys:
+The last thing that was not very clear is when you generate new subkeys you need to re-init your pass repo with the new encryption subkey. For example, let's assume the master private key pair has been stored away and we are on our development laptop. Let's say this is the output of `gpg --list-secret-keys`:
 
 ```
 karl@deathstar:~$ gpg --list-secret-keys
@@ -100,7 +100,7 @@ ssb>  2048R/11111111 2015-05-01
 ssb>  2048R/22222222 2015-05-01
 ```
 
-This shows that my private master key pair (generated on 2015-01-01) is -NOT- on my laptop (sec# means your secret key is not on the current keychain, since I left it on the airgapped USB drive). This means if my laptop was stolen, I could revoke all those subkeys, generate new ones with my master private key pair, and then re-publish the new keys to key servers.
+This shows that my private master key pair (generated on 2015-01-01) is __NOT__ on my laptop (sec# means your secret key is not on the current keychain, since I left it on the airgapped USB drive). This means if my laptop was stolen, I could revoke all those subkeys, generate new ones with my master private key pair, and then re-publish the new keys to key servers.
 
 It also shows that I had 2, 4096 bit subkeys generated on 2015-01-01, and 3, 2048 bit subkeys generated on 2015-05-01 that are stubs (the actual private key resides on a smartcard, in this case the Yubikey NEO).
 
@@ -120,7 +120,7 @@ This iterates every entry and re-encrypts it with your new subkey. Awesome!
 
 ## ssh
 
-Lastly, something I never realized before all this is that you can use a GPG authentication subkey as an SSH key for servers or source control or wherever an SSH key would be used. This has a fantastic side effect of giving my SSH key hardware 2 factor authentication. It is extremely simple to do once you have your keys all exported to the Yubikey NEO. To get the public key for your GPG authentication subkey you run the following command:
+Lastly, something I never realized before all this is that you can use a GPG authentication subkey as an SSH key for servers or source control or wherever an SSH key would be used. This has a fantastic side effect of bestowing hardware 2 factor authentication upon my SSH key. It is simple to do once you have all your keys exported to the Yubikey NEO. To get the public key for your GPG authentication subkey you run the following command:
 
 ```
 gpgkey2ssh <id-of-authentication-subkey>
@@ -136,18 +136,18 @@ The output is the public SSH key, which you can paste into github, bitbucket, or
 
 ## Commentary
 
-There exists services like [keybase.io](https://keybase.io) which is a great thing. They are trying to take a very complex set of operations and make it more accessible, which I think is fantastic. This stuff needs to be MUCH simpler in order to gain a wider adoption. Right now, the state of world is clear: it's just not ready for mainstream consumption.
+There exists services like [keybase.io](https://keybase.io) which is a great thing. They are trying to take a very complex set of operations and make it more accessible, which I think is fantastic. This stuff needs to be __MUCH__ simpler in order to gain a wider adoption. Right now, the state of world is clear: it's just not ready for mainstream consumption.
 
-I am not a member of a government agency, or a security professional, or someone dealing with health care numbers on a day to day basis. I'm just a software engineer, but I do work with lots of things that for one reason or another should be private. It is nice to see an entire community of people that have the same goals and ideals behind encryption and keeping data private that I do. Having followed these procedures, you should be reasonably confident that you have done a good job in protecting your encryption keys and the data you are encrypting with them. It's a shame there are so many agencies, governments, and private companies trying to backdoor the very same encryption techniques that protect them as well. One day these techniques described here will be outdated and, possibly, easily hacked or brute forced. Hopefully by then we have better options for protecting our data. Until then, I feel like this is the best possible way today.
+I am not a member of a government agency, or a security professional, or someone dealing with health care numbers on a day to day basis. I'm just a software engineer, but I do work with lots of things that for one reason or another should be private. It is nice to see an entire community of people that have the same goals and ideals behind encryption and keeping data private that I do. Having followed these procedures, you should be reasonably confident that you have done a good job in protecting your encryption keys and the data you are encrypting with them. It's a shame there are so many agencies, governments, and private companies trying to put backdoors into the very same encryption tools  that protect them as well. One day these techniques will be outdated and, possibly, easily hacked or brute forced. Hopefully, by then, we will have better options for protecting our data. But we need something _right now_, and this feels like the best way currently.
 
-Here's the opinion I formed for myself after all this research. We need a new approach. There has to be a better way to do this. I don't know what that is, but I want something better. The tools we have right now leave a lot to be desired. They're functional, but they are not "usable." I think if we (the community) spent a bit more resources on smoothing out the rough edges then there would be wider adoption of these tools.
+Here's the opinion I formed for myself after this exercise. We need a new approach. There has to be a better way to do this. I don't know what that is, but I want something better. The tools we have right now leave a lot to be desired. They're functional, but they are not "usable." I think if we (the community) spent a bit more resources on smoothing out the rough edges then there would be wider adoption of these tools.
 
 In order to be a standard, people have to use it. In order to get people to use it, there has to be a standard. In order to be a standard...
 
 I read a great quote by [Moxie Marlinspike](http://www.thoughtcrime.org/blog/gpg-and-me/) about GPG:
 
-"In the 1990s, I was excited about the future, and I dreamed of a world where everyone would install GPG. Now I’m still excited about the future, but I dream of a world where I can uninstall it."
+> In the 1990s, I was excited about the future, and I dreamed of a world where everyone would install GPG. Now I’m still excited about the future, but I dream of a world where I can uninstall it.
 
 I like GPG, but I also want something better.
 
-I'd love to hear your own ideas about this stuff, as well as how I can improve the techniques I have described here. This has been a fascinating learning exercise, and I feel like there is only more to learn.
+I'd love to hear your own ideas about this stuff, as well as how I can improve the techniques I have described here. This has been a fascinating learning exercise, and I feel like I've only scratched the surface.
