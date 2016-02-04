@@ -1,10 +1,13 @@
-author: karlgrz
-comments: false
-date: 2013-03-25 13:39:34
-slug: about
-title: About
++++
+author = "karlgrz"
+comments = false
+date = "2013-03-25T13:39:34"
+slug = "about"
+title = "About"
+menu = "main"
++++
 
-Hi! I'm a software engineer for [Mediafly](http://www.mediafly.com) in Chicago, IL. I've found myself liking python, go, erlang, and C# these days.
+Hi! I'm a software engineer for [Mediafly](http://www.mediafly.com) in Chicago, IL. I've found myself enjoying learning about and using python, go, erlang, rust, and C# these days.
 
 Reach out to me through the following avenues:
 

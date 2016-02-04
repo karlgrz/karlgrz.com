@@ -1,0 +1,68 @@
+baseurl = "http://karlgrz.com:1313/"
+title = "symphonic code"
+languageCode = "en-us"
+disqusShortname = "karlgrz"
+MetaDataFormat = "toml"
+theme = "hyde-x"
+paginate = 5
+
+[author]
+    name = "karlgrz"
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post = "/:slug"
+
+[taxonomies]
+    # Optional. Use if you want tags and lists.
+    category = "categories"
+    tag = "tags"
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # If false display full article contents in blog index.
+    # Otherwise show description and 'read on' link to individual blog post page.
+    # Default (if omitted) is true.
+    truncate = true
+
+    # Used when a given page doesn't set its own.
+    defaultDescription = "Your default page description"
+    defaultKeywords = "your,default,page,keywords"
+
+    # Changes sidebar background and link/accent colours.
+    # See below for more colour options.
+    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+    #theme = "theme-base-08"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "sunburst"
+
+    # Displays under the author name in the sidebar, keep it short.
+    # You can use markdown here.
+    tagline = "symphonic code"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Blog".
+    home = "Blog"
+
+    # Metadata used to drive integrations.
+    googleAuthorship = "+KarlGrzeszczak"
+    googleAnalytics = "UA-40361995-1"
+    gravatarHash = "c89d7aaa0fd05ebbf6326e2da6c9552e"
+
+    # Sidebar social links, these must be full URLs.
+    github = "https://github.com/karlgrz"
+    bitbucket = "https://bitbucket.org/karlgrz"
+    stackOverflow = ""
+    linkedin = ""
+    googleplus = "https://plus.google.com/+KarlGrzeszczak?rel=author"
+    facebook = ""
+    twitter = "https://twitter.com/karl_grz"
+    youtube = "https://youtube.com/KarlGrzeszczak"
+
+    # Other social-like sidebar links
+    rss = false  # switch to true to enable RSS icon link
+    SidebarRecentLimit = 5

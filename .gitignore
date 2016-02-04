@@ -1,8 +1,8 @@
 *~
 *.pyc
-site/output
 _build
 _nb_header.html
 *.pid
 *.log
 .sass-cache
+site/public
