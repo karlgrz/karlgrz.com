@@ -11,10 +11,10 @@ Hi! I'm a software engineer for [Mediafly](http://www.mediafly.com) in Chicago, 
 
 Reach out to me through the following avenues:
 
-- Twitter: [@karl_grz](http://twitter.com/karl_grz)
+- Twitter: [@karl_grz](https://twitter.com/karl_grz)
 - Email: karl [at] karlgrz [dot] com
-- Github: [karlgrz](http://github.com/karlgrz)
+- Github: [karlgrz](https://github.com/karlgrz)
 
-Outside of coding, I write and record some music, sometimes it ends up on [SoundCloud](http://soundcloud.com/karlgrz).
+Outside of coding, I write and record some music, sometimes it ends up on [SoundCloud](https://soundcloud.com/karlgrz).
 
 Here is a link to my [PGP key](https://pgp.mit.edu/pks/lookup?op=get&search=0x1A144227D1E7F29F) in case you desire secure communications.

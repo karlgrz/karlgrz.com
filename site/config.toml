@@ -1,5 +1,5 @@
-baseurl = "http://karlgrz.com:1313/"
-title = "symphonic code"
+baseURL = "https://karlgrz.com/"
+title = "karlgrz"
 languageCode = "en-us"
 disqusShortname = "karlgrz"
 MetaDataFormat = "toml"

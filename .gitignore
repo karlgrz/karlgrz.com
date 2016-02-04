@@ -1,6 +1,7 @@
 *~
 *.pyc
 _build
+.DS_Store
 _nb_header.html
 *.pid
 *.log
