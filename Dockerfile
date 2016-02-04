@@ -6,4 +6,4 @@ WORKDIR /srv
 
 RUN rm -rf /srv/public && hugo
 
-CMD ["hugo", "server", "--bind=0.0.0.0", "--appendPort=false", "--port=8001", "--baseURL=https://karlgrz.com/"]
+CMD ["hugo", "server", "--bind=0.0.0.0", "--disableLiveReload=true", "--appendPort=false", "--port=8001", "--baseURL=https://karlgrz.com/"]

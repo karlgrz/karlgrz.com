@@ -1,4 +1,5 @@
 baseURL = "https://karlgrz.com/"
+relativeURLs = true
 title = "karlgrz"
 languageCode = "en-us"
 disqusShortname = "karlgrz"
