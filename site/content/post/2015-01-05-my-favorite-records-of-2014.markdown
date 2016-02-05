@@ -4,7 +4,7 @@ comments = true
 date = "2015-01-05T16:00:00"
 slug = "my-favorite-records-of-2014"
 title = "My Favorite Records of 2014"
-category = ["Music"]
+categories = ["Music"]
 tags = ["2014", "Music"]
 +++
 

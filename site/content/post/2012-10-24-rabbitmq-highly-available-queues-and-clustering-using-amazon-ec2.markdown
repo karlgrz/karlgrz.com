@@ -4,7 +4,7 @@ comments = true
 date = "2012-10-24T23:10:00"
 slug = "rabbitmq-highly-available-queues-and-clustering-using-amazon-ec2"
 title = "RabbitMQ Highly Available Queues and Clustering Using Amazon EC2"
-category = ["Coding"]
+categories = ["Coding"]
 tags = ["rabbitmq", "aws", "distributed", "highly available", "clustering"]
 +++
 

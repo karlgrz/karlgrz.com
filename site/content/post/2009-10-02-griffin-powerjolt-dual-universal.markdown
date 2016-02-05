@@ -4,7 +4,7 @@ comments = true
 date = "2009-10-02T17:31:00"
 slug = "griffin-powerjolt-dual-universal"
 title = "Griffin PowerJolt Dual Universal"
-category = ["General"]
+categories = ["General"]
 tags = ["charging", "portable", "usb"]
 +++
 

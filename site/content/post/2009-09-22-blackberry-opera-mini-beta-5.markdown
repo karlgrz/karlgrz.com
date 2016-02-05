@@ -4,7 +4,7 @@ comments = true
 date = "2009-09-22T15:36:00"
 slug = "blackberry-opera-mini-beta-5"
 title = "Blackberry Opera Mini Beta 5"
-category = ["Coding"]
+categories = ["Coding"]
 tags = ["Blackberry", "Browser", "Mobile", "Opera", "Web"]
 +++
 

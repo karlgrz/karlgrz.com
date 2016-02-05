@@ -4,7 +4,7 @@ comments = true
 date = "2013-03-07T14:55:27"
 slug = "monstermash-flask-zeromq-and-echonest-remix"
 title = "MonsterMash: Flask, ZeroMQ, and EchoNest Remix"
-category = ["Coding"]
+categories = ["Coding"]
 tags = ["2013", "distributed", "dreamhost", "ec2", "echonest", "python", "remix", "zeromq"]
 +++
 
