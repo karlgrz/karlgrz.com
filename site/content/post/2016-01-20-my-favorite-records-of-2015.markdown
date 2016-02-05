@@ -5,7 +5,7 @@ date = "2016-01-20T08:00:00"
 slug = "my-favorite-records-of-2015"
 title = "My Favorite Records of 2015"
 categories = ["Music"]
-tags = ["2015, Music"]
+tags = ["2015", "Music"]
 +++
 
 2015 will go down as another legendary year of hard rock and metal album releases this decade. According to [last.fm](http://www.last.fm/user/karlgrz/library/albums?from=2015-01-01&to=2016-01-01), I listened to a shit load of records this year. My number 1 and number 2 entries this year were the closest they've ever been.
