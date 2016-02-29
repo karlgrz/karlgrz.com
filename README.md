@@ -1,4 +1,4 @@
 karlgrz.com
 ===========
 
-Pelican for karlgrz.com
+Blog for karlgrz.com
