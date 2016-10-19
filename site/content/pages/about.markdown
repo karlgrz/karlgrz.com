@@ -17,4 +17,23 @@ Reach out to me through the following avenues:
 
 Outside of coding, I write and record some music, sometimes it ends up on [SoundCloud](https://soundcloud.com/karlgrz).
 
+I'm in a few bands, some active, some not.
+
+## Uncouth
+- [SoundCloud](https://soundcloud.com/uncouthchicago)
+- [BandCamp](https://uncouthchicago.bandcamp.com)
+- [Facebook](https://facebook.com/uncouthchicago)
+- [Web](https://uncouthchicago.com)
+
+## Snakeoil Salesman
+- [BandCamp](https://snakeoilsalesman.bandcamp.com)
+- [Facebook](https://facebook.com/snakeoilsalesman)
+
+## Subject to Change
+- [Reverbnation](https://reverbnation.com/STCTunes)
+- [Facebook](https://facebook.com/STCTunes)
+
+## Once Upon A Grave
+- [BandCamp](https://onceuponagrave.bandcamp.com)
+
 Here is a link to my [PGP key](https://pgp.mit.edu/pks/lookup?op=get&search=0x1A144227D1E7F29F) in case you desire secure communications.
