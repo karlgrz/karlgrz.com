@@ -25,13 +25,17 @@ I'm in a few bands, some active, some not.
 - [Facebook](https://facebook.com/uncouthchicago)
 - [Web](https://uncouthchicago.com)
 
-## Snakeoil Salesman
-- [BandCamp](https://snakeoilsalesman.bandcamp.com)
-- [Facebook](https://facebook.com/snakeoilsalesman)
+## About Thieves
+- [SoundCloud](https://soundcloud.com/aboutthieves)
+- [Facebook](https://facebook.com/aboutthieves)
 
 ## Subject to Change
 - [Reverbnation](https://reverbnation.com/STCTunes)
 - [Facebook](https://facebook.com/STCTunes)
+
+## Snakeoil Salesman
+- [BandCamp](https://snakeoilsalesman.bandcamp.com)
+- [Facebook](https://facebook.com/snakeoilsalesman)
 
 ## Once Upon A Grave
 - [BandCamp](https://onceuponagrave.bandcamp.com)
