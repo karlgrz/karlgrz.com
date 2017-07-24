@@ -1,10 +1,8 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      {{ if isset .Site.Params "gravatarHash" }}
         <a href="{{ "/" | absURL }}"><img src="https://www.gravatar.com/avatar/{{ .Site.Params.gravatarHash }}?s=200"
              alt="gravatar" title="{{ .Site.Author.name }}"></a>
-      {{ end }}
       <a href="{{ "/" | absURL }}"><h1>{{ .Site.Author.name }}</h1></a>
       {{ with .Site.Params.tagline }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
     </div>
