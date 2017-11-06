@@ -23,11 +23,20 @@ I'm in a few bands, some active, some not.
 - [SoundCloud](https://soundcloud.com/uncouthchicago)
 - [BandCamp](https://uncouthchicago.bandcamp.com)
 - [Facebook](https://facebook.com/uncouthchicago)
+- [Twitter](https://twitter.com/uncouthchicago)
+- [Instagram](https://instagram.com/uncouthchicago)
 - [Web](https://uncouthchicago.com)
 
 ## About Thieves
 - [SoundCloud](https://soundcloud.com/aboutthieves)
 - [Facebook](https://facebook.com/aboutthieves)
+- [Twitter](https://twitter.com/aboutthieves)
+
+## Filth Sermon
+- [SoundCloud](https://soundcloud.com/user-889121227)
+- [BandCamp](https://filthsermon.bandcamp.com)
+- [Facebook](https://facebook.com/filthsermon)
+- [Twitter](https://twitter.com/filthsermon)
 
 ## Subject to Change
 - [Reverbnation](https://reverbnation.com/STCTunes)
