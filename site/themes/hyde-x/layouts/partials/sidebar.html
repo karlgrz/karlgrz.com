@@ -1,9 +1,11 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-        <a href="{{ "/" | absURL }}"><img src="https://www.gravatar.com/avatar/{{ .Site.Params.gravatarHash }}?s=200"
-             alt="gravatar" title="{{ .Site.Author.name }}"></a>
-      <a href="{{ "/" | absURL }}"><h1>{{ .Site.Author.name }}</h1></a>
+      {{ if isset .Site.Params "gravatarhash" }}
+        <img src="https://www.gravatar.com/avatar/{{ .Site.Params.gravatarHash }}?s=200"
+             alt="gravatar" title="{{ .Site.Author.name }}">
+      {{ end }}
+      <h1>{{ .Site.Author.name }}</h1>
       {{ with .Site.Params.tagline }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
     </div>
 
@@ -12,7 +14,6 @@
       {{ range .Site.Menus.main }}
       <li class="sidebar-nav-item">{{ .Pre }}<a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
       {{end}}
-      <li class="sidebar-nav-item"><a href="/post/">Posts</a></li>
     </ul>
 
     <ul class="sidebar-nav">
@@ -44,7 +45,7 @@
     </script></p>
     {{ end }}
 
-    <p>Copyright &copy; {{ .Now.Format "2006" }} <br/>
+    <p>Copyright &copy; {{ now.Format "2006" }} <a href="{{ "/license/" | absURL }}">License</a><br/>
        Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
   </div>
 </div>
