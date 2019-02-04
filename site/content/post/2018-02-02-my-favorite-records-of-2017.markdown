@@ -10,6 +10,17 @@ tags = ["2017", "Music"]
 
 2017 I feel like I listened to less new stuff than last year. I also think I went to more live shows and played more guitar so who knows? According to [last.fm](http://www.last.fm/user/karlgrz/library/albums?from=2017-01-01&to=2018-01-01) I did still consume quite a bit, these were my favorites.
 
+---
+
+# Albums I released in 2017
+
+## Uncouth - Tree of Woe
+[![](/images/2018-02-02-my-favorite-records-of-2017/Uncouth.png)](https://play.google.com/music/m/Bh5oalsc6dju46matj43oqlt6i4?t=Tree_of_Woe_-_Uncouth)
+
+---
+
+And now, on to my favorites of the year...
+
 ## 25.) The Contortionist - Clairvoyant
 [![](/images/2018-02-02-my-favorite-records-of-2017/TheContortionist.png)](https://play.google.com/music/m/Bbzvpkkc3rrh2gwidpk3w7zlhcu?t=Clairvoyant_-_The_Contortionist)
 
@@ -23,7 +34,7 @@ Crushing. If you're familiar with these sludgy titans you know what you're getti
 ## 23.) St. Vincent - MASSEDUCTION
 [![](/images/2018-02-02-my-favorite-records-of-2017/StVincent.png)](https://play.google.com/music/m/Bshp6qtitwihblk2zdw3lfztsri?t=MASSEDUCTION_-_St_Vincent)
 
-This caught me completely by surprise, as I was unfamiliar with Annie Clark before having this recommended to me by a coworker. I love this record. Her voice combined with her oddly familiar vocal cadence and lyrics really drew me in, but her guitar chops...oh man, some really fantastic harmonies and voicings going on here. 
+This caught me completely by surprise, as I was unfamiliar with Annie Clark before having this recommended to me by a coworker. I love this record. Her voice combined with her oddly familiar vocal cadence and lyrics really drew me in, but her guitar chops...oh man, some really fantastic harmonies and voicings going on here.
 
 ## 22.) Ulver - The Assassination of Julius Caesar
 [![](/images/2018-02-02-my-favorite-records-of-2017/Ulver.png)](https://play.google.com/music/m/B6mfwbjlc7myowtzv6t2zvmysly?t=The_Assassination_of_Julius_Caesar_-_Ulver)
@@ -88,7 +99,7 @@ I am a very big Mastodon fan. I loved this record. Every time they go into the s
 ## 10.) The Drip - The Haunting Fear of Inevitability
 [![](/images/2018-02-02-my-favorite-records-of-2017/TheDrip.png)](https://play.google.com/music/m/B7smvbihsgdn6mwpekoyyyf7vra?t=The_Haunting_Fear_of_Inevitability_-_The_Drip)
 
-This record came out of nowhere and demanded my attention, and once it had it there was no letting go. There is some chaos here. Frantic, break neck drumming combined with incredible screaming delivery and razor sharp guitar riffing and now I want to go start a pit. 
+This record came out of nowhere and demanded my attention, and once it had it there was no letting go. There is some chaos here. Frantic, break neck drumming combined with incredible screaming delivery and razor sharp guitar riffing and now I want to go start a pit.
 
 ## 9.) Kendrick Lamar - DAMN.
 [![](/images/2018-02-02-my-favorite-records-of-2017/KendrickLamar.png)](https://play.google.com/music/m/Bwj4cpxbxjnarequw2jkj5c3a5u?t=DAMN_-_Kendrick_Lamar)
