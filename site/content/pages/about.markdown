@@ -19,6 +19,14 @@ Outside of coding, I write and record some music, sometimes it ends up on [Sound
 
 I'm in a few bands, some active, some not.
 
+## Tides Cult 
+- [SoundCloud](https://soundcloud.com/tidescult)
+- [BandCamp](https://tidescult.bandcamp.com)
+- [Facebook](https://facebook.com/tidescult)
+- [Twitter](https://twitter.com/tidescult)
+- [Instagram](https://instagram.com/tidescult)
+- [Web](https://tidescult.com)
+
 ## Uncouth
 - [SoundCloud](https://soundcloud.com/uncouthchicago)
 - [BandCamp](https://uncouthchicago.bandcamp.com)
