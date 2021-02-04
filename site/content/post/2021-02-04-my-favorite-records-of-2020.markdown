@@ -12,9 +12,9 @@ tags = ["2020", "Music"]
 
 What a fucking year.
 
-There was a lot of personal hardships encountered by a lot of people around the globe. I was no exception to this theme, in countless ways. Like all times of struggle, music is something that has always helped me to keep my head above water when all hope seems lost. It's the one constant in a sea of tumultuous waves and upheavals where we have no control over except our own actions. It helped me through a very tough year, as I'm certain it did for many others.
+Countless personal hardships encountered by everyone around the globe. I was no exception to this theme, in countless ways. Like all times of struggle, music is something that has always helped me to keep my head above water when all hope seems lost. It's the one constant in a sea of tumultuous waves and upheavals where we have no control over except our own actions. It helped me through a very tough year, as I'm certain it did for many others.
 
-My bands were banking on 2020 being huge years. Both [Uncouth](https://uncouthchicago.bandcamp.com), who have been sitting on a 10 song LP waiting to get into our rehearsal space to start tracking it and had several huge shows lined up that were cancelled due to COVID, and [Tides Cult](https://tidescult.bandcamp.com) who are in the midst of writing a debut full length and were poised for some truly great performances in 2020. Alas, like always, you have to take life in stride and make the most of what you have. I'm truly thankful to have my health and family and friends to be able to share in the present and hope that 2021 and beyond is a better time for us all.
+My bands were banking on 2020 being huge years. Both [Uncouth](https://uncouthchicago.bandcamp.com), who have been sitting on our debut 10 song LP waiting to get into our rehearsal space to start tracking it and had several huge shows lined up that were cancelled due to COVID, and [Tides Cult](https://tidescult.bandcamp.com), who are in the midst of writing a debut full length and were poised for some truly great performances in 2020. Alas, like always, you have to take life in stride and make the most of what you have. I'm truly thankful to have my health and family and friends to be able to share in the present and hope that 2021 and beyond is a better time for us all.
 
 According to [last.fm](http://www.last.fm/user/karlgrz/library/albums?from=2020-01-01&to=2021-01-07), I still listened to a lot of music despite the wacky year. There was so much great stuff that came out last year. I have a feeling 2021 will have even more great stuff, as everyone was writing during the lockdowns and getting prepped for whenever shows can happen again. I miss live music so much and ache for that feeling of getting my face melted by overloud tube amps at Empty Bottle or Livewire or Reggie's again.
 
@@ -94,7 +94,7 @@ It's a Deftones record. I loved this. Steph's guitar riffs are really forward th
 ![](/images/2021-02-04-my-favorite-records-of-2020/BeneathTheMassacre.jpg)
 [Youtube Music](https://music.youtube.com/browse/MPREb_7aqQEypmHzG) | [Spotify](https://open.spotify.com/album/1q7U1NxOyWTzoS3cpqtQpS)
 
-Tech death from Canada. I think I watched [this video](https://www.youtube.com/watch?v=eDAZztJQyck) of Anthony Barone's drum playthrough of the first track, Rise of the Fearmonger, about a billion times last year. Every time I watch it it makes me want to quit music. Incredible. This whole record incredible.
+Tech death from Canada. I think I watched [this video](https://www.youtube.com/watch?v=eDAZztJQyck) of Anthony Barone's drum playthrough of the first track, Rise of the Fearmonger, about a billion times last year. Every time I watch it it makes me want to quit music. This whole record is incredible.
 
 ## 23.) Lifetaker - Night Intruder
 ![](/images/2021-02-04-my-favorite-records-of-2020/Lifetaker.jpg)
