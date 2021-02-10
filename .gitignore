@@ -7,3 +7,4 @@ _nb_header.html
 *.log
 .sass-cache
 site/public
+*.swp

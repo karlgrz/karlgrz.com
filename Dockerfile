@@ -1,4 +1,4 @@
-FROM karlgrz/alpine-hugo
+FROM hub.karlgrz.com/alpine-hugo
 EXPOSE 8001
 
 ADD site /site

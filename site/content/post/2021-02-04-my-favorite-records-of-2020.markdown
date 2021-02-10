@@ -46,7 +46,7 @@ The most perfect collaboration. Emma Ruth Rundle is one of the last artists I sa
 ![](/images/2021-02-04-my-favorite-records-of-2020/AncientThrones.jpg)
 [Youtube Music](https://music.youtube.com/browse/MPREb_4M0njIb034m) | [Spotify](https://open.spotify.com/album/1sLvttPvtFPWk1gARQXcpp)
 
-Big surprise to me on this one. Blackened death metal at it's finest. This is great, spin it from start to finish in one siting really loud.
+Big surprise to me on this one. Blackened death metal at it's finest. This is great, spin it from start to finish in one sitting really loud.
 
 ## 31.) Wake - Devouring Ruin
 ![](/images/2021-02-04-my-favorite-records-of-2020/Wake.jpg)
