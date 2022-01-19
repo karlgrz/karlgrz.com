@@ -18,84 +18,41 @@ I didn't release any records last year, but I did participate in some [collabora
 
 And now, on to my favorites of the year...
 
-Woman is the Earth - Dust of Forever (my current AOTY)
-King Buffalo - The Burden of Restlessness
-Rivers of Nihil - The Work
-Mastodon - Hushed and Grim
-Turnstile - Glow On
-Suffering Hour - The Cyclic Reckoning
-Sunless - Ylem
-Canyyn - Canyyn
-Ghost Bath - Self Loather
-Archspire - Bleed the Future
-SEIMS - FOUR
-Every Time I Die - Radical
-Blackwater Holylight - Silence/Motion
-Untamed Land - Like Creatures Seeking Their Own Forms
-Halsey - If I Can't Have Love, I Want Power
-Frontierer - Oxidized
-The Felice Brothers - From Dreams to Dust
-Eidola - The Architect
-LLNN - Unmaker
-Thrice - Horizons / East
-Coyote Man - Relics
-Aran - Pimeyttä Vasten
-Starless - Hope Is Leaving You
-Sermon of Flames - I Have Seen the Light, and It Was Repulsive
-Fluisteraars - Gegrepen Door de Geest der Zielsontluiking
-Leprous - Aphelion
-Tacoma Narrows Bridge Disaster - The World Inside
-Deafheaven - Infinite Granite
-Between the Buried and Me - Colors II
-Ophidian I - Desolate
-Vince Staples - Vince Staples
-Erdve - Savigaila
-Knocked Loose - A Tear In The Fabric of Life
-Cathexis - Untethered Abyss
-Amenra - De Doorn
-Thy Catalfaque - Vadak
-Tigercub - As Blue As Indigo
-Wanderer - Liberation From A Brutalist Existence
-Pan Daijing - Jade
-Eremit - Bearer of Many Names
-black midi - Cavalcade
-St. vincent - Daddy's Home
-Panopticon - ...And Again Into the Light
-Grave Miasma - Abyss of Wrathful Deities
-Grey Aura - Zwart Vierkant
-Spectral Lore - Ετερόφωτος
-Paysage D'Hiver - Geister
-Këkht Aräkh - Pale Swordsman
+Yautja - The Lurch
+Annihilus - Follow a Song from the Sky
 Spectral Wound - A Diabolic Thirst
 Throne - Pestilent Dawn
-Godspeed You! Black Emperor - G_d's Pee AT STATE'S END!
-Krallice - Demonic Wealth
-Summoning the Lich - United in Chaos
-Alkerdeel - Slonk
-AnkerkeriA - Matriarch
-Soen - Imperial
-
-Haven't gotten to these yet, but I expect them to be in my favorites:
-Unto Others - The Strength
-WHARFLURCH - Psychedelic Realms ov Hell
-Atvm - Famine, Putrid and Fucking Endless
-Emma Ruth Rundle - Engine of Hell
-Bent Knee - Frosting
-Churchburn - Genocidal Rite
-MØL - Diorama
-Portrayal of Guilt - Christfucker
-200 Stab Wounds - Slave to the Scalpel
+Grey Aura - Zwart Vierkant
+Grave Miasma - Abyss of Wrathful Deities
 Converge - Bloodmoon: I
-Khemmis - Deceiver
-Obscura - A Valediction
-Teeth - Finite
-Creature - Eloge De L'ombre
-Kadaver + Elder - ELDOVAR - A Story of Darkness & Light
+Knocked Loose - A Tear In The Fabric of Life
+Ophidian I - Desolate
+Emma Ruth Rundle & Thou - The Helm of Sorrow
+Deafheaven - Infinite Granite
+Leprous - Aphelion
+Sermon of Flames - I Have Seen the Light, and It Was Repulsive
+LLNN - Unmaker
+Julien Baker - Little Oblivions
+The Felice Brothers - From Dreams to Dust
+Every Time I Die - Radical
+Archspire - Bleed the Future
+Ghost Bath - Self Loather
+Sunless - Ylem
+Suffering Hour - The Cyclic Reckoning
 So Hideous - None But a Pure Heart Can Sing
-King Buffalo - Acheron
+Halsey - If I Can't Have Love, I Want Power
+Turnstile - Glow On
+Mastodon - Hushed and Grim
+Rivers of Nihil - The Work
+MØL - Diorama
+Khemmis - Deceiver
+St. vincent - Daddy's Home
+Spectral Lore - Ετερόφωτος
+WHARFLURCH - Psychedelic Realms ov Hell
+Fluisteraars - Gegrepen Door de Geest der Zielsontluiking
+King Buffalo - The Burden of Restlessness
+Woman is the Earth - Dust of Forever
 Ethereal Shroud - Trisagion
-Galge - Løkkelig
-Reveal - Doppelherz
 
 ## 1.) Paysage d'Hiver - Im Wald
 ![](/images/2021-02-04-my-favorite-records-of-2020/PaysageDHiver.jpg)
@@ -110,3 +67,47 @@ There are so many fantastic musical moments throughout this record, but one of m
 I haven't connected this viscerally and profoundly with a piece of music since Baroness' Yellow & Green. It's as if this album was tailor made to evoke the maximum response from my brain. It's not for everyone, that's for sure, but this is, without question, my favorite record of the year.
 
 # Honorable Mentions
+- Abiotic - A Universal Plague: Mutation
+- Alkerdeel - Slonk
+- Amenra - De Doorn
+- AnkerkeriA - Matriarch
+- Aran - Pimeyttä Vasten
+- Atvm - Famine, Putrid and Fucking Endless
+- Between the Buried and Me - Colors II
+- black midi - Cavalcade
+- Blackwater Holylight - Silence/Motion
+- Canyyn - Canyyn
+- Cathexis - Untethered Abyss
+- Coyote Man - Relics
+- Dessiderium - Aria
+- Eidola - The Architect
+- Erdve - Savigaila
+- Eremit - Bearer of Many Names
+- Frontierer - Oxidized
+- Godspeed You! Black Emperor - G_d's Pee AT STATE'S END!
+- Gonemage - Sudden Deluge
+- If I Were the Devil - If I Were the Devil
+- Kadaver + Elder - ELDOVAR - A Story of Darkness & Light
+- King Buffalo - Acheron
+- Krallice - Demonic Wealth
+- Këkht Aräkh - Pale Swordsman
+- Lavaborne - Black Winged Gods
+- Pan Daijing - Jade
+- Panopticon - ...And Again Into the Light
+- Paysage D'Hiver - Geister
+- Portrayal of Guilt - We Are Always Alone
+- Robert Plant & Allison Krause - Raise the Roof
+- SEIMS - FOUR
+- Soen - Imperial
+- Starless - Hope Is Leaving You
+- Summoning the Lich - United in Chaos
+- Summoning the Lich - United in Chaos
+- Tacoma Narrows Bridge Disaster - The World Inside
+- The Waterfall King - Vol 1.
+- Thrice - Horizons / East
+- Thy Catalfaque - Vadak
+- Tigercub - As Blue As Indigo
+- Untamed Land - Like Creatures Seeking Their Own Forms
+- Unto Others - The Strength
+- Vince Staples - Vince Staples
+- Wanderer - Liberation From A Brutalist Existence
