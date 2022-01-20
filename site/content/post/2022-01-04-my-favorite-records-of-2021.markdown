@@ -1,7 +1,7 @@
 +++
 author = "karlgrz"
 comments = true
-date = "2021-01-04T08:00:00"
+date = "2022-01-18T12:00:00"
 slug = "my-favorite-records-of-2021"
 title = "My Favorite Records of 2021"
 categories = ["Music"]
@@ -10,61 +10,221 @@ tags = ["2021", "Music"]
 
 "2021".
 
-What a fucking year. Part 2.
-
-I didn't release any records last year, but I did participate in some [collaborations](https://soundcloud.com/erik-oldman-music/chicago-collaboration-1) that were really fun, and released a new [Once Upon A Grave](https://soundcloud.com/karlgrz/raining-iron-in-antarctica) song, which inspired me to dust that project off for 2021. I'm looking forward to releasing a bunch of stuff in 2021 and beyond.
+[last.fm](http://www.last.fm/user/karlgrz/library/albums?from=2021-01-07&to=2022-01-18)
 
 ---
 
 And now, on to my favorites of the year...
 
-Yautja - The Lurch
-Annihilus - Follow a Song from the Sky
-Spectral Wound - A Diabolic Thirst
-Throne - Pestilent Dawn
-Grey Aura - Zwart Vierkant
-Grave Miasma - Abyss of Wrathful Deities
-Converge - Bloodmoon: I
-Knocked Loose - A Tear In The Fabric of Life
-Ophidian I - Desolate
-Emma Ruth Rundle & Thou - The Helm of Sorrow
-Deafheaven - Infinite Granite
-Leprous - Aphelion
-Sermon of Flames - I Have Seen the Light, and It Was Repulsive
-LLNN - Unmaker
-Julien Baker - Little Oblivions
-The Felice Brothers - From Dreams to Dust
-Every Time I Die - Radical
-Archspire - Bleed the Future
-Ghost Bath - Self Loather
-Sunless - Ylem
-Suffering Hour - The Cyclic Reckoning
-So Hideous - None But a Pure Heart Can Sing
-Halsey - If I Can't Have Love, I Want Power
-Turnstile - Glow On
-Mastodon - Hushed and Grim
-Rivers of Nihil - The Work
-MØL - Diorama
-Khemmis - Deceiver
-St. vincent - Daddy's Home
-Spectral Lore - Ετερόφωτος
-WHARFLURCH - Psychedelic Realms ov Hell
-Fluisteraars - Gegrepen Door de Geest der Zielsontluiking
-King Buffalo - The Burden of Restlessness
-Woman is the Earth - Dust of Forever
-Ethereal Shroud - Trisagion
+## 35.) Annihilus - Follow a Song from the Sky
+![](/images/2022-01-20-my-favorite-records-of-2021/Annihilus.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
 
-## 1.) Paysage d'Hiver - Im Wald
-![](/images/2021-02-04-my-favorite-records-of-2020/PaysageDHiver.jpg)
-[Youtube Music](https://music.youtube.com/browse/MPREb_gaGZd0IvS2P) | [Spotify](https://open.spotify.com/album/5nTJdUUCkwLkgg8GPwtHQo)
+test
 
-2 hours. That's a long time for a record. That's a long time to demand of a listener nowadays. I am all about long records, and I love it when artists indulge the listeners who do enjoy the deep dive into the rabbit hole. This record is more like the cinematic experience of a film to me than an album, and that length is a big part in making that a great adventure.
+## 34.) Spectral Wound - A Diabolic Thirst
+![](/images/2022-01-20-my-favorite-records-of-2021/SpectralWound.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
 
-There was a period of almost a month where this was all I listened to. I was enthralled, almost obsessed with experiencing it again and again. Lofi black metal can be an acquired taste, and sometimes there is quite a fine line between artful and overdoing it. Wintherr has found the absolute perfect blend of musicianship and arrangement to bring his vision to life. It's cold as the tundra. Hypnotic, almost.
+test
 
-There are so many fantastic musical moments throughout this record, but one of my favorite happens at the end of Le rêve lucide, flowing into Eulengesang, and the payoff into Kälteschauer. The ever present wind throughout this passage is haunting every single time. And then, when you least suspect it, the madness continues.
+## 33.) Throne - Pestilent Dawn
+![](/images/2022-01-20-my-favorite-records-of-2021/Throne.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
 
-I haven't connected this viscerally and profoundly with a piece of music since Baroness' Yellow & Green. It's as if this album was tailor made to evoke the maximum response from my brain. It's not for everyone, that's for sure, but this is, without question, my favorite record of the year.
+test
+
+## 32.) Converge & Chelsea Wolfe - Bloodmoon: I
+![](/images/2022-01-20-my-favorite-records-of-2021/ConvergeChelseaWolfe.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 31.) Knocked Loose - A Tear In The Fabric of Life
+![](/images/2022-01-20-my-favorite-records-of-2021/KnockedLoose.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 30.) Ophidian I - Desolate
+![](/images/2022-01-20-my-favorite-records-of-2021/OphidianI.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 29.) Deafheaven - Infinite Granite
+![](/images/2022-01-20-my-favorite-records-of-2021/Deafheaven.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 28.) Leprous - Aphelion
+![](/images/2022-01-20-my-favorite-records-of-2021/Leprous.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 27.) Yautja - The Lurch
+![](/images/2022-01-20-my-favorite-records-of-2021/Yautja.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 26.) Sermon of Flames - I Have Seen the Light, and It Was Repulsive
+![](/images/2022-01-20-my-favorite-records-of-2021/SermonOfFlames.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 25.) LLNN - Unmaker
+![](/images/2022-01-20-my-favorite-records-of-2021/LLNN.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 24.) Julien Baker - Little Oblivions
+![](/images/2022-01-20-my-favorite-records-of-2021/JulienBaker.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 23.) Dessiderium - Aria
+![](/images/2022-01-20-my-favorite-records-of-2021/Dessiderium.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 22.) The Felice Brothers - From Dreams to Dust
+![](/images/2022-01-20-my-favorite-records-of-2021/TheFeliceBrothers.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 21.) Grey Aura - Zwart Vierkant
+![](/images/2022-01-20-my-favorite-records-of-2021/GreyAura.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 20.) Every Time I Die - Radical
+![](/images/2022-01-20-my-favorite-records-of-2021/EveryTimeIDie.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 19.) Archspire - Bleed the Future
+![](/images/2022-01-20-my-favorite-records-of-2021/Archspire.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 18.) Ghost Bath - Self Loather
+![](/images/2022-01-20-my-favorite-records-of-2021/GhostBath.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 17.) Sunless - Ylem
+![](/images/2022-01-20-my-favorite-records-of-2021/Sunless.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 16.) Suffering Hour - The Cyclic Reckoning
+![](/images/2022-01-20-my-favorite-records-of-2021/SufferingHour.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 15.) So Hideous - None But a Pure Heart Can Sing
+![](/images/2022-01-20-my-favorite-records-of-2021/SoHideous.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 14.) Grave Miasma - Abyss of Wrathful Deities
+![](/images/2022-01-20-my-favorite-records-of-2021/GraveMiasma.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 13.) Halsey - If I Can't Have Love, I Want Power
+![](/images/2022-01-20-my-favorite-records-of-2021/Halsey.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 12.) Turnstile - Glow On
+![](/images/2022-01-20-my-favorite-records-of-2021/Turnstile.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 11.) Mastodon - Hushed and Grim
+![](/images/2022-01-20-my-favorite-records-of-2021/Mastodon.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 10.) Rivers of Nihil - The Work
+![](/images/2022-01-20-my-favorite-records-of-2021/RiversOfNihil.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 9.) MØL - Diorama
+![](/images/2022-01-20-my-favorite-records-of-2021/MØL.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 8.) Khemmis - Deceiver
+![](/images/2022-01-20-my-favorite-records-of-2021/Khemmis.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 7.) St. vincent - Daddy's Home
+![](/images/2022-01-20-my-favorite-records-of-2021/StVincent.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 6.) WHARFLURCH - Psychedelic Realms ov Hell
+![](/images/2022-01-20-my-favorite-records-of-2021/WHARFLURCH.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 5.) Spectral Lore - Ετερόφωτος
+![](/images/2022-01-20-my-favorite-records-of-2021/SpectralLore.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 4.) Fluisteraars - Gegrepen Door de Geest der Zielsontluiking
+![](/images/2022-01-20-my-favorite-records-of-2021/Fluisteraars.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 3.) King Buffalo - The Burden of Restlessness
+![](/images/2022-01-20-my-favorite-records-of-2021/KingBuffalo.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 2.) Ethereal Shroud - Trisagion
+![](/images/2022-01-20-my-favorite-records-of-2021/EtherealShroud.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
+
+## 1.) Woman is the Earth - Dust of Forever
+![](/images/2022-01-20-my-favorite-records-of-2021/WomanIsTheEarth.jpg)
+[Youtube Music](https://music.youtube.com/browse/) | [Spotify](https://open.spotify.com/album/)
+
+test
 
 # Honorable Mentions
 - Abiotic - A Universal Plague: Mutation
@@ -79,8 +239,8 @@ I haven't connected this viscerally and profoundly with a piece of music since B
 - Canyyn - Canyyn
 - Cathexis - Untethered Abyss
 - Coyote Man - Relics
-- Dessiderium - Aria
 - Eidola - The Architect
+- Emma Ruth Rundle & Thou - The Helm of Sorrow
 - Erdve - Savigaila
 - Eremit - Bearer of Many Names
 - Frontierer - Oxidized
@@ -100,7 +260,6 @@ I haven't connected this viscerally and profoundly with a piece of music since B
 - SEIMS - FOUR
 - Soen - Imperial
 - Starless - Hope Is Leaving You
-- Summoning the Lich - United in Chaos
 - Summoning the Lich - United in Chaos
 - Tacoma Narrows Bridge Disaster - The World Inside
 - The Waterfall King - Vol 1.
