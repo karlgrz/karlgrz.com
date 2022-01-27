@@ -8,7 +8,7 @@ categories = ["Music"]
 tags = ["2021", "Music"]
 +++
 
-Another weird year. I listened to even less this year
+Another weird year. I spent more time on practicing guitar and working on other stuff than listening to music, apparently, as my volume is down about 40% from last year. Guess I was focusing on other things. Anyway, 2021 was a great year for metal, yet again, and there was tons of new releases that made it fun to continue discovering music.
 
 [last.fm](http://www.last.fm/user/karlgrz/library/albums?from=2021-01-07&to=2022-01-18)
 
