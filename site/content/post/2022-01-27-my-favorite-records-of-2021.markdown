@@ -80,13 +80,13 @@ Unmeasurably heavy record. Start to finish this album just bludgeons you in the 
 ![](/images/2022-01-27-my-favorite-records-of-2021/JulienBaker.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mxSxhPv__VEVJLUt-VGLfdSFZ_iopS59c) | [Spotify](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A)
 
-This was one of my most listened to records of 2021, apparently. I enjoyed a lot of Julien Baker's previous records but this one latched onto me and wouldn't let go. Particularly liked Hardline and Bloodshot but the whole thing is great.
+This was one of my most listened to records of 2021, apparently. I enjoyed a lot of Julien Baker's previous records but this one latched onto me and wouldn't let go. I particularly enjoyed Hardline and Bloodshot but the whole thing is great.
 
 ## 24.) Dessiderium - Aria
 ![](/images/2022-01-27-my-favorite-records-of-2021/Dessiderium.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_l-ZqqZZ_KF1pxFU3b4U1WondCrVTXQ8vM) | [Spotify](https://open.spotify.com/album/4xJ42d0vGYzlewKu2hy5ZR)
 
-Dense, proggy, blackened, technical death metal from Phoenix, Arizona solo project from Alex Haddad. This record was something I was looking forward to for a while after hearing one of the pre release tracks before the album dropped in December. Wonderfully catchy and simultaneously brutal riffs. Loved this.
+Dense, proggy, blackened, technical death metal out of Phoenix, Arizona, Dessiderium is the solo project from Alex Haddad. This record was something I was looking forward to for a while after hearing one of the pre release tracks before the album dropped in December. Wonderfully catchy and simultaneously brutal riffs. Loved this.
 
 ## 23.) The Felice Brothers - From Dreams to Dust
 ![](/images/2022-01-27-my-favorite-records-of-2021/TheFeliceBrothers.jpg)
@@ -98,7 +98,7 @@ Folky rock that reminds me of Bob Dylan if he sat in and wrote songs with All th
 ![](/images/2022-01-27-my-favorite-records-of-2021/GreyAura.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nOe4-b8PHWdOrcXBzU_j-NSo5xbshyT7E) | [Spotify](https://open.spotify.com/album/5vW1cV7SNc4FxcvS7Zm8Ab)
 
-Wonderful black metal record. Listen to this for the wild bass lines alone. This trio captured magic on record, I love the atmosphere they bring to the table here. Fantastic performances throughout, but the standout for me is the bass playing, which is unusual in this genre. Looking forward to their next one.
+Wonderful black metal record. Listen to this for the wild bass lines alone. This trio captured magic on record. I love the atmosphere they bring to the table here. Fantastic performances throughout, but the standout for me is the bass playing, which is unusual in this genre. Looking forward to their next one.
 
 ## 21.) Every Time I Die - Radical
 ![](/images/2022-01-27-my-favorite-records-of-2021/EveryTimeIDie.jpg)
@@ -110,25 +110,25 @@ Swan song. I penned this in January after they broke up. Such a shame but they d
 ![](/images/2022-01-27-my-favorite-records-of-2021/Archspire.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nh4bwS7CMYvLpRW7TCbQXrw8rT-cdCGYY) | [Spotify](https://open.spotify.com/album/5lWIRgkSy5WWOMrZ7xxygH)
 
-You know exactly what you are in for with Archspire. This record never lets up for a single moment and I am here for it. Tech death to the extreme, this is yet another perfect example of why they are one of the best there is at doing the damn thing...
+You know exactly what you are in for with Archspire. This record never lets up for a single moment and I am here for it. Tech death to the extreme, this is yet another perfect example of why they are one of the best there is at doing the damn thing.
 
 ## 19.) Ghost Bath - Self Loather
 ![](/images/2022-01-27-my-favorite-records-of-2021/GhostBath.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_k6kQdVZir1UngkqrvmCzDRZ8yzaeMXyOo) | [Spotify](https://open.spotify.com/album/0UjZZgoxPxKn6AF5RteViO)
 
-I loved Starmourner and I love this record. Dennis Mikula's screams are wonderfully terrifying. This is a fantastic atmospheric black metal record and a great introduction to this band, though I would recommend starting with Moonlover and going forward if you're interested in their progression. 
+I loved Starmourner and I love this record. Dennis Mikula's screams are wonderfully terrifying. This is a fantastic atmospheric black metal record and a great introduction to this band, although I would recommend starting with Moonlover and going forward if you're interested in their progression. 
 
 ## 18.) Sunless - Ylem
 ![](/images/2022-01-27-my-favorite-records-of-2021/Sunless.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mxT01KpTjaJNywSab1z_-pejSbN8I55wo) | [Spotify](https://open.spotify.com/album/0xGizCqOV2zrTaOfOrfiIx)
 
-Dissonant death metal from Minnesota. This *rules*, and another fine example of fantastic bass playing in an extreme metal format.
+Dissonant death metal from Minnesota. This *rules*, and another fine example of stellar bass playing in an extreme metal format.
 
 ## 17.) Knocked Loose - A Tear In The Fabric of Life
 ![](/images/2022-01-27-my-favorite-records-of-2021/KnockedLoose.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kO39L4uKBUre9s4WLHQj-P9LONy0hG3rY) | [Spotify](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl)
 
-I still remember vividly the day this film was released. I'm not a huge Knocked Loose fan, but I am familiar with their catalog and enjoyed A Different Shade of Blue. This EP is just about as perfect of a release as you can get. I loved the film, too. This also lands on my list of best EPs of all time, phenomenal record. Check out the [film](https://www.youtube.com/watch?v=70cXs8hht_Q) that accompanies the EP if you haven't yet.
+I still remember vividly the day this [film](https://www.youtube.com/watch?v=70cXs8hht_Q) was released. I'm not a huge Knocked Loose fan, but I am familiar with their catalog and enjoyed A Different Shade of Blue. This EP is just about as perfect of a release as you can get. This also lands on my list of best EPs of all time, phenomenal record. Check out the film that accompanies the EP if you haven't yet, it's as good as the record.
 
 ## 16.) Suffering Hour - The Cyclic Reckoning
 ![](/images/2022-01-27-my-favorite-records-of-2021/SufferingHour.jpg)
@@ -146,13 +146,13 @@ My love for So Hideous goes back to 2014 with their release of Last Poem / First
 ![](/images/2022-01-27-my-favorite-records-of-2021/GraveMiasma.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kgWvI_klTqn0UfFler5j3aduBp9DVXbOs) | [Spotify](https://open.spotify.com/album/7BtZ9ZiaO4KrN3mQrObgmL)
 
-Grave Miasma is becoming one of my favorite death metal bands. This is a masterclass is OSDM. Riffs for days, and the production is beautifully filthy.
+Grave Miasma is becoming one of my favorite death metal bands. This is a masterclass in OSDM style bludgeoning. Riffs for days, and the production is beautifully filthy.
 
 ## 13.) Halsey - If I Can't Have Love, I Want Power
 ![](/images/2022-01-27-my-favorite-records-of-2021/Halsey.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_k3KIeUKjZnz5nBzrxepbcNR9dsyDrCvHA) | [Spotify](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH)
 
-I think I'm a little obsessed with listening to Halsey sing. Their voice is just breathtakingly gorgeous, and this entire record turned me into a huge fan of theirs. Coupled with production from Trent Reznor and Atticus Ross, this sounds like it belongs with Ghosts I-IV and I am here for it. The Tradition got me hooked right from the start, You asked for this reminds me of 90's alt rock the absolute best way possible, and honey is just a perfect pop song. Love this record.
+I think I'm a little obsessed with listening to Halsey sing. Their voice is just breathtakingly gorgeous, and this entire record turned me into a huge fan of theirs. Coupled with production from Trent Reznor and Atticus Ross, this sounds like it belongs with Ghosts I-IV and it really works in a haunting and ethereal way. The Tradition got me hooked right from the start, You asked for this reminds me of 90's alt rock the absolute best way possible, and honey is just a perfect pop song. Love this record.
 
 ## 12.) Turnstile - Glow On
 ![](/images/2022-01-27-my-favorite-records-of-2021/Turnstile.jpg)
@@ -164,7 +164,7 @@ One of my most played records of 2021. I haven't been a huge fan of Turnstile ov
 ![](/images/2022-01-27-my-favorite-records-of-2021/Mastodon.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mY87_DpIe4zOzfk2s5fa-Rx11W0sPsEO8) | [Spotify](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC)
 
-I love Mastodon, they're one of my favorite bands. I go back and forth with Leviathan and Crack the Skye being my "favorite" of theirs. Hushed and Grim is a really ambitious record that I feel like borrows a lot from both those records. But it also takes a ton of inspiration from those huge production 70's records from bands like Led Zeppelin and The Who and The Beatles, with outlandish, over the top production and tons of instrumentation. And it works. I'm glad they went all out and released a double album, because in this context it really works. The ending (Eyes of Serpents into Gigantium) is just breathtaking music right there. Brann continues to cement himself as one of my favorite drummers, and he's becoming an outstanding vocalist, too. Bill and Brent keep on coming up with nasty riffs after all these records, it's cool to hear them pushing themselves all these years, and Troy is just a beast on the bass and mic as usual. I feel like this is top tier Mastodon, hopefully they can keep this up going forward and they haven't peaked.
+I love Mastodon, they're one of my favorite bands. I go back and forth with Leviathan and Crack the Skye being my "favorite" of theirs. Hushed and Grim is a really ambitious record that I feel like borrows a lot from both those records. But it also takes a ton of inspiration from those huge production 70's records from bands like Led Zeppelin, Pink Floyd, The Who, and The Beatles. Outlandish, over the top production and tons of instrumentation. And it works. I'm glad they went all out and released a double album, because in this context it really works. The ending (Eyes of Serpents into Gigantium) is just mind blowing to me. Brann continues to cement himself as one of my favorite drummers, and he's becoming a very proficient vocalist, too. Bill and Brent keep on coming up with nasty riffs after all these records, it's cool to hear them pushing themselves all these years, and Troy is just a beast on the bass and mic as usual. I feel like this is top tier Mastodon, hopefully they can keep this up going forward and they haven't peaked.
 
 ## 10.) Rivers of Nihil - The Work
 ![](/images/2022-01-27-my-favorite-records-of-2021/RiversOfNihil.jpg)
@@ -182,13 +182,13 @@ This is just a flawless blackgaze record. Just go listen to it and experience it
 ![](/images/2022-01-27-my-favorite-records-of-2021/Khemmis.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lOArd4d3oOVanfuT4dxh31KaitONNPJwY) | [Spotify](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B)
 
-I am a huge Khemmis fan. Hunted is a perfect record, in my opinion. I loved Desolation and Absolution. Deceiver carries the torch well and continues their legacy. This album is huge, and these Colorado metallers keep bringing the riffs and the songs. 
+I am a huge Khemmis fan. Hunted is a perfect record, in my opinion. I loved Desolation and Absolution. Deceiver carries the torch well and continues their legacy. This album is huge, and these Colorado metallers keep bringing the riffs. 
 
 ## 7.) St. vincent - Daddy's Home
 ![](/images/2022-01-27-my-favorite-records-of-2021/StVincent.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_krhs61_MTlq3OMOEKZhezm7mKIp16ZwD4) | [Spotify](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM)
 
-I was very excited for this release and it did not disappoint. Annie Clark is one of my favorite songwriters and this tribute to the big production records of the 70's hits the mark. These songs are still spinning in my brain to this day. Pay Your Way into Pain and The Melting of the Sun are my favorite tracks but this entire record is a fantastic homage to the productions of yesteryear and it's incredible.
+I was very excited for this release and it did not disappoint. Annie Clark is one of my favorite songwriters and this tribute to the big production records of the 70's hits the mark. These songs are still spinning in my brain to this day. Pay Your Way into Pain and The Melting of the Sun are my favorite tracks but this entire record is a fantastic homage to the productions of yesteryear and it's excellent.
 
 ## 6.) WHARFLURCH - Psychedelic Realms ov Hell
 ![](/images/2022-01-27-my-favorite-records-of-2021/WHARFLURCH.jpg)
@@ -212,7 +212,7 @@ I loved Bloem last year. This record is a worthy follow up. Rawer production and
 ![](/images/2022-01-27-my-favorite-records-of-2021/KingBuffalo.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kw11T7oteQ75pejK_Ip_iZe3PC8_F1t4Y) | [Spotify](https://open.spotify.com/album/031668YzIc2Lxmb8FiR8d9)
 
-King Buffalo have come a long way since I saw them open for Elder in 2017. They two stand out LPs last year, the other recorded in a cave. The Burden of Restlessness is my favorite, though. This record is just leaps and bounds ahead of where they were just a couple years ago. The production is great, but the songwriting chops and performance of this trio is out of this world from start to finish. They take you on a wondrous, psychedelic journey that you don't want to end. "Another one dead in the wasteland." Perfect record.
+King Buffalo have come a long way since I saw them open for Elder in 2017. They released two stand out LPs last year, the other recorded in a cave. The Burden of Restlessness is my favorite, though. This record is just leaps and bounds ahead of where they were just a couple years ago. The production is great, but the songwriting chops and performance of this trio is out of this world from start to finish. They take you on a wondrous, psychedelic journey that you don't want to end. "Another one dead in the wasteland." Perfect record.
 
 ## 2.) Ethereal Shroud - Trisagion
 ![](/images/2022-01-27-my-favorite-records-of-2021/EtherealShroud.jpg)
@@ -226,7 +226,7 @@ It was very difficult to decide my top 2 this year. I'll admit that I didn't hav
 
 I visited the Black Hills of South Dakota last fall, and I fell in love with the quiet, majestic beauty of it all. Honestly, I could have set up camp somewhere and been at peace with that as my home going forward. Alas, the vacation was only a little over a week and we had a packed itinerary so we only stayed there a few days. But that short time captured me. Woman is the Earth is based out of those same hills, and Dust of Forever delivered me back to that moment in time. This is my favorite atmospheric black metal album of the year and my favorite record of the year.
 
-This record drew me in from the start with some of the best album artwork I've ever seen and it doesn't let up. Riffs on riffs on riffs and a pounding rhythm section do. not. let. up. Jon Martin on drums beats the living shit out of his kit and I am here for it. Such a frenetic pace and immediacy to every strike and fill. Andy Martin and Jarrod Hattervig combine to deliver such a memorable set of guitar riffing and fury of melody it's unforgettable and breathtaking. Jarrod's vocal delivery is exceptional and truly haunting. Production on this record is perfect, neither too raw nor too polished, it reminds me of Inter Arma in how they layer all the sounds together as one voice. This entire record is exceptional but The Crystal Tomb is my favorite. That riff that permeates throughout gets my blood going in all the best ways. 
+This record drew me in from the start with some of the best album artwork I've ever seen and it doesn't let up. Riffs on riffs on riffs and a pounding rhythm section do. not. let. up. Jon Martin on drums beats the living shit out of his kit and the fills and performance on this record are so good. Such a frenetic pace and immediacy to every strike and fill. Andy Martin and Jarrod Hattervig combine to deliver such a memorable set of guitar riffing and fury of melody it's unforgettable and breathtaking. Jarrod's vocal delivery is exceptional and truly haunting. Production on this record is perfect, neither too raw nor too polished, it reminds me of Inter Arma in how they layer all the sounds together as one voice. This entire record is exceptional but The Crystal Tomb is my favorite. The opening riff on that track that continues to permeate throughout gets my blood going in all the best ways. 
 
 This was my favorite record of the year, without question. Great year for music.
 
