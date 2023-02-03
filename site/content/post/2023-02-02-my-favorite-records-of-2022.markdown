@@ -16,107 +16,113 @@ Lots of really great records came out last year. It seems I've pared my listenin
 
 To my favorites...
 
-## 35.) Revocation - Netherheaven
+## 36.) Revocation - Netherheaven
 ![](/images/2023-02-02-my-favorite-records-of-2022/Revocation.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_leaQcACZfc0Foxw-q8yoNYznP55qHQwP0) | [Spotify](https://open.spotify.com/album/1swdOihxBBv2mwFNtbD0xm?si=b9656e2eff6e47d8)
 
 Blasted me in the face. Worth it alone for the Trevor Strnad closing feature. This is excellent riffing and song writing again.
 
-## 34.) King Buffalo - Regenerator
+## 35.) King Buffalo - Regenerator
 ![](/images/2023-02-02-my-favorite-records-of-2022/KingBuffalo.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lz4gnXUtCMm9zzHydfn7swQrNVbBRn-j0) | [Spotify](https://open.spotify.com/album/3xArGf5JGYwsFcWIo62v4w?si=82731db62b28416c)
 
 Outstanding. I love this band and they keep bringing it. Wonderful guitar and bass tone throughout.
 
-## 33.) Stormruler - Sacred Rites & Black Magick
+## 34.) Stormruler - Sacred Rites & Black Magick
 ![](/images/2023-02-02-my-favorite-records-of-2022/Stormruler.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kRetV3EBPmbHhNklZNcqzL46j_dAQVK9g) | [Spotify](https://open.spotify.com/album/381BPCVwvxRIdgU6e27tqo?si=147975832a2446a1)
 
 This is great. 74 minutes of ripping trem picking and great performances. I dig the interludes in between each track. Wonderful sophomore release, keep this band on your radar, they're doing great things.
 
-## 32.) The Mountain King - WolloW
+## 33.) The Mountain King - WolloW
 ![](/images/2023-02-02-my-favorite-records-of-2022/TheMountainKing.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mnH-WdvJ9yoShMOWGTrlHbRYDNQhLKm1E) | [Spotify](https://open.spotify.com/album/2aobtSAi32ilCwaxWJJ4lW?si=jPSM8AqnSpu2VNWX79lXWg)
 
 Palindrome doom record?! Super cool, lots of great musical moments. No way they intended to do all of this, haha :-)
 
-## 31.) Pyrithe - Monuments to Impermanence
+## 32.) Pyrithe - Monuments to Impermanence
 ![](/images/2023-02-02-my-favorite-records-of-2022/Pyrithe.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lVCUxTsSTsZQlg_o1pvkZwuUOSb3T3yaY) | [Spotify](https://open.spotify.com/album/7gj3v8G00R6Ae9en9ETWy6?si=4nZiXwe0SOmyE_7aPU4_Fw)
 
 Loved this, not sure i'd even call it death metal? Progressive deathy metal or something. Whatever it is, really cool and the wild time shifts and arrangements make this one really special.
 
-## 30.) Gaerea - Mirage
+## 31.) Gaerea - Mirage
 ![](/images/2023-02-02-my-favorite-records-of-2022/Gaerea.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_ltixr9VgH0jJDfFfB8iYQVQar1hXWuz9A) | [Spotify](https://open.spotify.com/album/4XaR6FbfvrS2xc0Sbkq4uu?si=06a68be6618c401f)
 
 I loved Limbo. Big fan of the guitars on this. And the vocalist gives another A+ performance. Great band, great record.
 
-## 29.) Russian Circles - Gnosis
+## 30.) Russian Circles - Gnosis
 ![](/images/2023-02-02-my-favorite-records-of-2022/RussianCircles.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kCB3oVnE6PN9qOj0_Zl07oRVFpijXvjfg) | [Spotify](https://open.spotify.com/album/70f88hTacrgbDXCB8PkQhy?si=66bf90f18fa341d4)
 
 Great balance of heavy and beauty, as always. Not quite as heavy as Blood Year but seemed close. Really interesting record. They continue to raise the bar for themselves.
 
-## 28.) River Whyless - Monoflora
+## 29.) River Whyless - Monoflora
 ![](/images/2023-02-02-my-favorite-records-of-2022/RiverWhyless.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_njoNJFLIzt7TOnX9zAqyhpOlj45nm0vUI) | [Spotify](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE?si=6e65164d32db42f8)
 
 Reminds me a lot of Weyes Blood, and made me want to listen to Andromeda for the billionth time. Loved this.
 
-## 27.) Undeath - It's Time...To Rise From The Grave
+## 28.) Undeath - It's Time...To Rise From The Grave
 ![](/images/2023-02-02-my-favorite-records-of-2022/Undeath.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nn0iILTke6FSeJGrmFwA_a09tSjG5mxEk) | [Spotify](https://open.spotify.com/album/5pL9YDRmrXWNPEJGKiYUXs?si=2ea0f5e9110e4ef3)
 
 RIPS...loving this. This is fantastic, I'm really looking forward to what they do next. Truly interesting death metal riffs and songwriting. 
 
-## 26.) Haunter - Discarnate Ails
+## 27.) Haunter - Discarnate Ails
 ![](/images/2023-02-02-my-favorite-records-of-2022/Haunter.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nxJtC8DHBDV1NB-gd7HaMhVJQ3XGSxGg4) | [Spotify](https://open.spotify.com/album/7jzxkX2KQYwL3zltRNSLSo?si=a0c957b0c9634754)
 
 Outstanding. This is such a great record, psych styled riffs and *incredibly* good vocal performances throughout. Love this. They really stepped it up on the sophomore release. 3 songs clocking in at 31 minutes, this could have easily gone longer, I wanted more. Looking forward to whatever they do next.
 
-## 25.) Candelabrum - Nocturnal Trance
+## 26.) Candelabrum - Nocturnal Trance
 ![](/images/2023-02-02-my-favorite-records-of-2022/Candelabrum.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lc0tEH2Ee6oXyxzUw2o4Z-z-ApgtdGhOU) | [Spotify](https://open.spotify.com/album/1afTcJOyxyMgC84YC4kfcH?si=Snul7i2lTJaeeETizk8xmg)
 
 Reminds me of Paysage D'Hiver Im Wald. Great atmosphere, super raw production which isn't something I "need" in black metal but when it works and fits, it really helps. This record really benefits from it. Lots of really cool instrumentation and the riffs are great. Love the vocals, too.
 
-## 24.) Coheed & Cambria - Vaxis II: A Window of the Waking Mind
+## 25.) Coheed & Cambria - Vaxis II: A Window of the Waking Mind
 ![](/images/2023-02-02-my-favorite-records-of-2022/CoheedAndCambria.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mv2ulNXLwW--0lUT8Iw57XjmlSp55UVSs) | [Spotify](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON?si=d0f533a16e964912)
 
 Wonderful record. Loved this a lot, and that's saying something because I have historically been indifferent on the rest of their albums. This record might have changed that because I might need to revisit their discog. Fantastic songwriting and performances. Love the riffs, love the vocal delivery and harmonies and melodies.
 
-## 23.) Sarattma - Escape Velocity
+## 24.) Sarattma - Escape Velocity
 ![](/images/2023-02-02-my-favorite-records-of-2022/Sarattma.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kB6uQMkhtgRJtRthxRabHrwgQuboYZ_Us) | [Spotify](https://open.spotify.com/album/4seX2SHozP9KgaxX04V3LL?si=78c983008e584b22)
 
 Exceptionally well done instrumental metal record. So much going on, fantastic song writing and mood generation. The last two tracks are mind blowingly amazing.
 
-## 22.) thoughtcrimes - Altered Pasts
+## 23.) thoughtcrimes - Altered Pasts
 ![](/images/2023-02-02-my-favorite-records-of-2022/Thoughtcrimes.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nMHz1X80O3jHOTjWqwZFvg8_dcbJhMAMs) | [Spotify](https://open.spotify.com/album/1CV1UGSYTlk6KQGZgxILE8?si=d7005027c2884e99)
 
 Incredibly good, spiritual successor to The Dillinger Escape Plan. Billy Rymer on drums AND guitar.
 
-## 21.) Crippled Black Phoenix - Banefyre
+## 22.) Crippled Black Phoenix - Banefyre
 ![](/images/2023-02-02-my-favorite-records-of-2022/CrippledBlackPhoenix.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_k7eXDvmwmJa-cd3PadT5zEPthAouquuqY) | [Spotify](https://open.spotify.com/album/2qUu76qcYJEtd5F85BBi2E?si=cfa700ab608041d3)
 
 Exactly what I was hoping for. Skippable first track. Rose of Jericho belongs in the song of the year discussion. A long record (97 minutes) but it's a journey that is meant to be taken.
 
-## 20.) Brutus - Unison Life
+## 21.) Brutus - Unison Life
 ![](/images/2023-02-02-my-favorite-records-of-2022/Brutus.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nS-6A-7AxNJXm33dRT_P5QEzc5kmFYRjE) | [Spotify](https://open.spotify.com/album/60DKd6JfoatLAE9c2z03ac?si=2e00b27fc4434a6d)
 
 Fantastic vocal performance and arrangements, love the rhythm section, and the songwriting is phenomenal. Some of these vocal melodies and harmonies were not leaving my brain for weeks after initial listen of this one.
 
-## 19.) Wilderun - Epigone
+## 20.) Wilderun - Epigone
 ![](/images/2023-02-02-my-favorite-records-of-2022/Wilderun.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lTaBrzNhz1v3x4P5PgIuo84Qy6AboCqKw) | [Spotify](https://open.spotify.com/album/1fvGhdUzdva8Y7vHD8RtNV?si=e256760acb214ffb)
 
 Symphonic and grandiose, love the growls. Great clean singing then into wonderful growling. Top notch musicianship. Reminds me a lot of Devin Townsend Project and Between the Buried and Me. Tons of great riffing and grandiose instrumentation. This was exceptionally great. Bonus Radiohead cover was cool!
+
+## 19.) Jamestown Revival - Young Man
+![](/images/2023-02-02-my-favorite-records-of-2022/JamestownRevival.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_l9QOwOImaDrvUClNipi43JQqWRubHQVt4) | [Spotify](https://open.spotify.com/album/6wtl82SlZKccyO9BnZoAwA?si=nF-JQZtPR7W3uAosnGzHQg)
+
+One of my most listened to records of the year. Kinda bluegrass, kinda country, with a blues tinge to everything. Got to see them at Thalia Hall perform and they knocked it out of the park. Memorable tunes and vocal harmonies that get stuck in your brain for weeks. Looking forward to the next record.
 
 ## 18.) Kendrick Lamar - Mr Morale & The Big Steppers
 ![](/images/2023-02-02-my-favorite-records-of-2022/KendrickLamar.jpg)
