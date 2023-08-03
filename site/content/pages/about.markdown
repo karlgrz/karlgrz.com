@@ -11,6 +11,7 @@ Hi! I'm a software engineer for [Mediafly](http://www.mediafly.com) in Chicago, 
 
 Reach out to me through the following avenues:
 
+- Mastodon: [@karlgrz@mastodon.social](https://mastodon.social/@karlgrz)
 - Twitter: [@karl_grz](https://twitter.com/karl_grz)
 - Email: karl [at] karlgrz [dot] com
 - Github: [karlgrz](https://github.com/karlgrz)
