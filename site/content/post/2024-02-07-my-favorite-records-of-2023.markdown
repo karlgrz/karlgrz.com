@@ -110,7 +110,7 @@ This band has grown and evolved so much on record in their sophomore release. Th
 ![](/images/2024-02-07-my-favorite-records-of-2023/Agriculture.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lRJsqMzN4Hqrs7FX89goXz67aDFzVoeGo) | [Spotify](https://open.spotify.com/album/12vzq91UrxC2r3zcHnhaiX?si=0149f930ede94817)
 
-Outstanding debut from a very promising black metal band. They get in and get out, this is a brief LP, 5 tracks, could have definitely been fine with another 6-10 minutes song but I get it. Leave them wanting more! Sign me up.
+Outstanding debut from a very promising black metal band. They get in and get out, this is a brief LP, 4 songs over 6 tracks, could have definitely been fine with another 6-10 minutes song but I get it. Leave them wanting more! Sign me up.
 
 ## 21.) Wayfarer - American Gothic
 ![](/images/2024-02-07-my-favorite-records-of-2023/Wayfarer.jpg)
@@ -170,7 +170,7 @@ This band crafts some of the gnarliest guitar chords and sounds. The opening not
 ![](/images/2024-02-07-my-favorite-records-of-2023/Liturgy.jpg)
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_ksM7Pjuk4TlGXQ3an-De3KGS6_3IXgxsE) | [Spotify](https://open.spotify.com/album/28gL6vjKVFaO7UG0ImRzkY?si=f52690a38d954eea)
 
-This is probably my new favorite Liturgy record. The glitch beats are at a frenzied high and I am here for it. This feels like a great followup to Origin of the Alimonies. They seem to really lean hard into the electronic elements, it really adds a lot to the arrangements and the flow of the record. Outstanding vocal performance again. The title track is just breathtaking. In another year this is my top of the year (well, the same can be said for anything here, I suppose.)
+This is probably my new favorite Liturgy record. The glitch beats are at a frenzied high and I am here for it. This feels like a great followup to Origin of the Alimonies. They seem to really lean hard into the electronic elements, it really adds a lot to the arrangements and the flow of the record. Outstanding vocal performance again. The title track is just breathtaking. If this came out in a different year it would likely be my top of the year (well, the same can be said for anything here, I suppose.)
 
 ## 11.) Cattle Decapitation - Terrasite
 ![](/images/2024-02-07-my-favorite-records-of-2023/CattleDecapitation.jpg)
@@ -234,11 +234,11 @@ Ulthar put out not one, but two of the best death metal records in recent memory
 
 ## 3.) Baroness - STONE
 ![](/images/2024-02-07-my-favorite-records-of-2023/Baroness.jpg)
-[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kxHdR_hBPUINlkLzyFkktjpQcHd529UQU) | [Spotify](https://open.spotify.com/album/0i8uUVKFN0p4fYDXs4nJV6?si=CzTsWfWcTgmey-PbKpV0-g)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kxHdR_hBPUINlkLzyFkktjpQcHd529UQU) | [Spotify](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi?si=BzHJwEjHQMaTVFlAldvkTQ)
 
 I love Baroness. Every record they've released I've had a pretty strong connection to, for one reason or another. Baizley & Co. have a knack for writing songs that pique my curiosity and interests time and time again.
 
-Stone is no different. In fact, it's probably the best _sounding_ Baroness record since Yellow & Green. Great songs as always, and Gina seems to be getting more comfortable in the band, both on guitar and singing. The interplay and chemistry amongst the group is on full display throughout the runtime here and I can't wait to see where they go next. Incredible record.
+Stone is no different. In fact, it's probably the best _sounding_ Baroness record since Yellow & Green, as they have eased up on the "clipping as an artistic device" it seems. Great songs as always, and Gina seems to be getting more comfortable in the band, both on guitar and singing. The interplay and chemistry amongst the group is on full display throughout the runtime here and I can't wait to see where they go next. Incredible record.
 
 ## 2.) Anti-God Hand - Blight Year
 ![](/images/2024-02-07-my-favorite-records-of-2023/AntiGodHand.jpg)
