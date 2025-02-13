@@ -1,7 +1,7 @@
 +++
 author = "karlgrz"
 comments = true
-date = "2025-02-12T08:00:00"
+date = "2025-02-13T08:00:00"
 slug = "my-favorite-records-of-2024"
 title = "My Favorite Records of 2024"
 categories = ["Music"]
