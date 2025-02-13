@@ -1,123 +1,292 @@
-SLIFT - ILION (10 / 10) AOTY candidate. Wonderful Elder-like. Some truly wonderful guitar tones throughout. Great songs.
-Vitriol - Suffer & Become (10 / 10) AOTY candidate. One of the best death metal records I've heard in a long time, and that's saying something. Incredible songwriting and performances. Kyle riffs so hard and flies all over the fretboard with ease and taste. Shame and it's Afterbirth might be the best death metal song I've heard in decades. Incredible. time will tell but this is so good, I am calling it my AOTY right now, haha. 3 listens and it's still great.
-Cave Sermon - Divine Laughter (10 / 10) Whoa. Good shit. Great production and songwriting. Long songs! Might need to revisit this one again. Lots of pretty parts amidst the savagery.
-Job For a Cowboy - Moon Healer (10 / 10) Unexpectedly amazing. One of the proggiest metal releases of the year so far. Incredible rhythm section. Seriously. Outstanding record. AOTY candidate, will be high on my list.
-Night Verses - Every Sound Has a Color in the Valley of Night (10 / 10) Whoa. Second half of this was equally as incredible as the first. Makes the first part that much better and more impactful, in my opinion. Masterpiece.
-Oak, Ash, & Thorn - Our Grief is Thus (10 / 10) Wow. Not expecting this level of greatness. Reminds me a lot of Khemmis. Excellent record. Spin #2 is equally good. 10/10 i think. Riffs, melodies, harmonies, drum heroics, this album has it all. AOTY candidate.
-Inter Arma - New Heaven (10 / 10) BIG HYPE!!! Really good. I think I'd put it between Paradise Gallows and Sulphur English in my list of their discog favs. Wonderful record. AOTY candidate.
-Vemod - The Deepening (10 / 10) AOTY Candidate. Wow. this was powerful. Clean guitar and clean singing throughout. Incredibly well done arrangements. The first track was a very slow burn but it had me hooked by the end. Need to relisten. So very good.
-Knocked Loose - You Won't Go Before You're Supposed To (10 / 10) Looking forward to this one a lot. Hopefully it's like A Tear in the Fabric of Life and less like A Different Shade of Blue (I like the former a lot more than the latter but ADSoB is good too). Wow. This blew me away. Not expecting that good of a record from them. 10/10 on first listen.
-Pallbearer - Mind Burns Alive (10 / 10) Incredible record. They've really come into their own. Last couple records have been very strong progressions of song writing and performance. Love this one. And the Sax!!!
-Wormwood - The Star (10 / 10) Wow, unexpected greatness. Lot of critics cite this one as being too fragmented and scatterbrained but I disagree, I love the writing and the concept and the production. AOTY candidate for me.
-Sound&Shape - Pillars of Creation (10 / 10) Awesome record, AOTY candidate maybe. Closest I've heard to el cielo since...el cielo, heh.
-Vale of Pnath - Between the Worlds of Life and Death (10 / 10) wow, aoty candidate. I expect we'll be celebrating the 10th anniversary of this album.
-Autolith - Artificial Brain (10 / 10) this reminded me a lot of Anti-God Hand from last year. Incredible album. Tons of range and the songwriting is outstanding. Aoty candidate.
-Huntsmen - The Dry Land (10 / 10) Whoa baby. Loved this. Relistening. Incredible vocal harmonies, love the arrangements. Huge growth in songwriting from Mandala of Fear. Huge production. Loved this.
-Ætheria Conscientia - The Blossoming (10 / 10) Wow. AOTY candidate. Incredible songwriting and performances. Loved this.
-Ulcerate - Cutting the Throat of God (10 / 10) BIG HYPE!!! This was outstanding. Dissonant death at it's finest. One of the best drumming performances of the year, maybe the decade. Outstanding record and an instant AOTY candidate.
-Seth - La France des Maudits (10 / 10) This is the goods. One of the better black metal records of the year.
-Black Birch - S/T (10 / 10) The goods. Wonderful black metal record. Everything I want in the genre is on display here. Wild vocals, frenetic drums, lo fi but not terrible production, great guitar hooks. AOTY candidate.
-Kendrick Lamar - GNX (10 / 10) Solid. Not sure where this sits in his discography for me, but it's a really good album.
-Dawn Treader - Bloom & Decay (10 / 10) Excellent record. AOTY candidate. Dissonant and wonderfully filthy.
-Pyrrhon - Exhaust (10 / 10) Love this band. Organized chaos at it's finest. They really embrace and go all in on the weird riffs and polyrhythm stuff they do on this album. Love it.
-Horna - Nyx (Hymnejä yölle) (10 / 10) Oh baby. Wow. Unexpected greatness here. AOTY candidate. Some of the catchiest guitar riffs of the year. So good.
-Glacial Tomb - Lightless Expanse (10 / 10) Khemmis guitarist and bassist, great album. AOTY candidate
-Blood Incantation - Absolute Elsewhere (10 / 10) Album of the year. Wow. Amazing record. What a journey! Need to relisten multiple times, haha, this is so dense. Great voyage. Love the guitars, synths, vocals, drums, bass, heh, everything about this is wonderful. Masterfully written and arranged.
-Oranssi Pazuzu - Muuntautuja (10 / 10) This band is wacky and I am here for it. Great stuff. Weird as fuck and creepy as hell. AOTY contender.
-Gaerea - Coma (10 / 10) Incredible record. Love this band. Huge growth on this one. This band has something special with the adrenaline in their song writing. Goose bumps all the time. Outstanding. AOTY candidate.
-Paysage D'Hiver - Die Berge (10 / 10) First two tracks are perfect. Rest of the album is equally wonderful. Great album. AOTY candidate. That said, I like Im Wald better, I think. But this is second best overall in discography to me.
-Bedsore - Dreaming the Strife for Love (10 / 10) Weird as fuck. Ray Manzorek playing with Dog Fashion Disco, maybe. Great record. Weird in the best ways. AOTY contender.
-Spectral Lore - IV (Part 1) (10 / 10) Incredible album. Looking forward to part 2. Arrangements and guitar work is wonderful, really interesting songwriting and it all works quite nicely.
-Exocrine - Legend (9.5 / 10) Whoa baby this ruled. Archspire-like. There were some REALLY cool clean guitar tones thrown in for taste in a lot of places that were well chosen. Great playing and arrangements.
-Knoll - As Spoken (9.5 / 10) whoa. awesome start. Frenetic and vicious. Good stuff. A little samey throughout, score reflects it. Very close to a perfect record.
-meth. - SHAME (9.5 / 10) Whoa. Grim and filthy. Dissonant. Lots of space. Very dark. I loved the ending of the album. Monstrous. Might need to revisit it again, I'm on 9.5 on initial listen but might be a 10?
-Chelsea Wolfe - She Reaches Out to She Reaches Out to She (9.5 / 10) Big hype! This is shaping up to be on par with Abyss and Hiss Spun for me as her tops. Outstanding songwriting and ambience.
-Slimelord - Chytridiomycosis Relinquished (9.5 / 10) Incredible. Right up my alley. Long death metal songs, heh. Filthy production, great riffs, great writing, really cool melodies. Loved this. AOTY candidate for sure, need to relisten in the car and on my speakers. Have a feeling this goes from my initial 9.5 to a 10 after a few listens.
-Replicant - Infinite Mortality (9.5 / 10) Good shit. Listened to this first time, gave 8.5, second time I give 9.5, this is really great death metal. It's possibly a 10, too, not quite sure.
-Taylor Swift - THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY (9.5 / 10) Sounds like Tay Tay's The Cure album, at least so far. This was really good. Long, but in a good way. I think my favorites were The Prophecy and Down Bad. Probably needs a relisten.
-Bongripper - Empty (9.5 / 10) Fuck yes.
-Cognitive - Abhorrence (9.5 / 10) Awesome record!
-Gatecreeper - Dark Superstition (9.5 / 10) Catchy as hell. Probably gateway to death metal. The song structures are addictive and accessible in ways that death metal has never been. Awesome record.
-Botanist - Paleobotany (9.5 / 10) Wild record. Love this. Almost perfect. A bit samey with the performances but otherwise this so sick.
-Rotting Christ - Pro Xristou (9.5 / 10) awesome record, loved this
-Julie Christmas - Ridiculous and Full of Blood (9.5 / 10) Love this. Big fan of Julie Christmas and this album has been wonderful. Supernatural is one of my favorite songs of the year so far. The Lighthouse is really good, too, with Johannes from Cult of Luna.
-MONO - OATH (9.5 / 10) Outstanding record. This might be my favorite Mono record so far, maybe? Film noir as a genre. SO GOOD.
-Alcest - Les Chants de l'Aurore (9.5 / 10) Wonderful. I dunno if this or Kodoma is better. Really well done. Should listen again. AOTY candidate, probably.
-Krallice - Inorganic Rites (9.5 / 10) KRALLICE! Damn, this was really good. Great mix of synths and shred. One of their better records in the last several years. Gotta revisit it again but it's gonna be towards the tops for me I can imagine.
-Hemwick - Acedia (9.5 / 10) Wow. This is one of the better EPs ive ever heard. Incredibly good. Well thought out and arranged instrumental progressive death metal. Can an EP make the AOTY list? Yes.
-Feind - Ambulante Hirnamputation (9.5 / 10) This is the goods. Grindcore at it's finest. Can't understand the lyrics but that's ok. Short and sweet. Drums are tasty, and I loved the guitar production too.
-Spectral Wound - Songs of Blood and Mire (9.5 / 10) Great record. Loved this. Need to relisten on better speakers, I was on my earbuds. Very interesting arrangements and guitar melodies. Good production for black metal (lofi but not shitty sounding)
-Rolo Tomassi - Live at Electric Ballroom (9.5 / 10) What a great set! I watched the video of this. Awesome production and setlist choices. Love this band.
-Undeath - More Insane (9.5 / 10) Looking forward to this one greatly. This was a good sophomore record. Not quite as potent as the first one but follows up that same flow and excitement. Good shit.
-Immortal Bird - Sin Querencia (9.5 / 10) Fantastic record. Some very cool arrangements throughout, especially Synthetic Alliances. Great production, too.
-Black Curse - Burning in a Celestial Poison (9.5 / 10) Whoa, this is the goods. Frenetic and wonderful. Cool cast of characters, too.
-Tyler, The Creator - CHROMAKOPIA (9.5 / 10) Good shit. I dig the jazzy / chilled out beats and music. Cool concept. Dig it.
-Opeth - The Last Will and Testament (9.5 / 10) Outstanding. Death growls are back! This is a really good album front to back and brings a really nice blend of old and new Opeth. Top notch.
++++
+author = "karlgrz"
+comments = true
+date = "2025-02-12T08:00:00"
+slug = "my-favorite-records-of-2024"
+title = "My Favorite Records of 2024"
+categories = ["Music"]
+tags = ["2024", "Music"]
++++
 
-Sons of Ra - Tropic of Cancer (9 / 10) Got a sneak peek at this from Erik. Killer record. Great tones and performances.
-Lord Dying - Clandestine Transcendance (9 / 10) Outstanding record. It really is a voyage. They did a great job and grew SO MUCH on this release. I love the arrangements and varied sounds they brought on this record. Cool lyrical journey, too.
-Resin Tomb - Cerebral Purgatory (9 / 10) Great album. Awesome guitar tone and songs.
-Luciferian Rites - Oath of Midnight Ashes (9 / 10) Wonderful black metal record. Well written and performed. Vocal performance is cool, it's got the gamut and all the extremes on both ends (shrieking and blorches)
-Vipassi - Lightless (9 / 10) Good stuff. Incredible bass playing. Great arrangements.
-Necrowretch - Swords of Dajjal (9 / 10) Great record. Production was crisp and clear for black metal, loved the vocal production and arrangement and songwriting. Breakdowns reminiscent of Tides Cult.
-Them Moose Rush - Zepaxia (9 / 10) Wild record. Really cool arrangements and songwriting. Some very, VERY interesting songs. Should revisit, possible top 10 candidate.
-Aureole - Alunarian Bellmaster (9 / 10) Wild and wacky! Fresh take on black metal, I loved this. Really cool arrangements that aren't really black metal but aren't really industrial, they're just a new thing, or something? Really cool.
-Spectral Voice - Sparagmos (9 / 10) Huge album, Loved this. Lots of hype, and it has some parts that are a bit draggy, but overall I loved this. Great atmosphere and build ups and then the pay offs are all really nice. Good guitar tones, and the drums are really nice. Loved the vocals.
-Borknager - Fall (9 / 10) Yowza, this was outstanding. Some of the best rhythm section work in a metal album all year so far. Incredible bass playing and drumming. Arrangements were excellent. Good stuff.
-Judas Priest - Invincible Shield (9 / 10) Wow. Great record. How does Halford still do it?! Really good songs, riffs, and melodies.
-Aborted - Vault of Horrors (9 / 10) Damn the song with Oli from Archspire was awesome. Great record. Riffs are incredible. Really good. So many features. This was awesome.
-Ohpen Ahrms - Lying Beside You (9 / 10) Great record. One of the better local releases. Reminds me of Cloakroom meets Depeche Mode with a litlte sludge thrown in for good measure. Really good arrangments and songwriting. And I love the strings production! Tasteful riffs and tone.
-Beyoncé - COWBOY CARTER (9 / 10) Good stuff! Loved the covers. The lone hip hop song here was fire. Jolene was great. Really really good record.
-Julia Holter - Something in the Room She Moves (9 / 10) Loved this. Production was incredible. The chanting thing was weird but I dug it, might skip it in the future. Otherwise, incredibly cool arrangements and songwriting.
-ERRA - CURE (9 / 10) This was great. Good mix of clean and screams. Great songs. Reminds me a bit of Tesseract.
-Witch Vomit - Funeral Sanctum (9 / 10) GREAT record! OSDM of the best variety, doing it up and doing it right. Great riffs, great songwriting. Might be closer to a 9.5, will relisten.
-Austere - Beneath the Threshold (9 / 10) This was awesome. Probably need to relisten to this but I really enjoyed it.
-Benighted - Ekbom (9 / 10) Drums are absolutely brutal on this. Great arrangements and I really dug the vocal delivery a lot more than most grindcore records. Great production. Guitars sounded awesome. LONG songs for grindcore (most songs 3:00 or longer, wild)
-Greyhaven - Stereo Grief (9 / 10) Damn this rules. Wish it was an LP, but I'll take this EP. Great record.
-High on Fire - Cometh the Storm (9 / 10) Great album. Matt Pike's vocals are hit or miss throughout, like usual, but it doesn't matter much. Songs are great. I love that they will bury a riff into the earth and let it linger. Good stuff.
-Antichrist Siege Machine - Vengeance of Eternal Fire (9 / 10) Oh yes! Really good grind record
-Ariana Grande - eternal sunshine (9 / 10) Good record! Incredible production as usual. Supernatural might dethrone Dance the Night by Dua Lipa for me :-)
-Real Estate - Daniel (9 / 10) This was wonderful. Chilled out folky indie rock. Great album.
-Brume - Marten (9 / 10) This was exquisite. Great record. Real cool moody and dreary doom / sludge.
-Dååth - The Deceivers (9 / 10) Real good. Production and riffs and songwriting are fantastic.
-Wheel - Charismatic Leaders (9 / 10) Enjoyed this a lot.
-Kamasi Washington - Fearless Movement (9 / 10) Great album. The features are great, the songs are great, wonderful jazz record.
-From Dying Suns - Calamity (9 / 10) Big time Trevor Strnad worship on the mic. Amazing PSX cover art :-) This will be up there in my end year list, wonderful album.
-The Last of Lucy - Godform (9 / 10) Awesome record, wasn't familiar with these dudes very much but I am now. Shred.
-Rendered Helpless - From Nothing Comes All (9 / 10) Good record, relentless and great songwriting
-Dua Lipa - Radical Optimism (9 / 10) Houdini is one of the best songs I've ever heard. Good album, lots of singles on it but real scattered.
-Thou - Umbilical (9 / 10) Amazing album, my favorite Thou, probably. Just ferocious.
-CANDY - It's Inside You (9 / 10) Cool songs! Lot of variety and love the production.
-Squid Pisser - Dreams of Puke (9 / 10) Wild and wacky. This was great.
-Rezn - Burden (9 / 10) Awesome record! I think Let It Burn is still my favorite, but this one is probably second now. The sax is becoming a bigger part of their core sound and it's really awesome.
-Sumac - The Healer (9 / 10) 76 minutes! Sludgetastic. Dug this a lot.
-Charli XCX - Brat (9 / 10) Great record. Really good production and song writing.
-White Stones - Memoria Viva (9 / 10) Damn this ruled! Proper jazz melded with metal in the best way. Great album!
-Liminal Shroud - Visions of Collapse (9 / 10) Cool stuff. Not as much as I liked the previous one, but this was awesome nonetheless
-Scarcity - The Promise of Rain (9 / 10) This is cool. Dissonant and weird, spastic riffs. Slight reminder of Gorrch with the frenetic guitar playing over the driving drums. But a different thing entirely. Good record.
-Vuur & Zijde - Boezum (9 / 10) Very cool. Shoegazy, blackgazey kinda record. Melody is on point. Can't understand the lyrics but that's ok. Solid as hell record.
-Ghost - Rite Here Rite Now (9 / 10) Good set list, great production.
-Summoning the Lich - Under The Reviled Throne (9 / 10) Black Dahlia Murder lite. Quite enjoyed this. Their vocalist is definitely a fan of Trevor, in a good way. Great record.
-Wormwitch - Wormwitch (9 / 10) Good record. A little samey but this is the goods
-Defacement - Duality (9 / 10) Cool dissonant death metal record. Electronics segues were cool. Pretty cool shit, the last song in particular is very good.
-Fleshgod Apocalypse - Opera (9 / 10) Very good. I need to probably listen to this one again. The vocal harmonies are really something special on this one.
-Melt-Banana - 3+5 (9 / 10) Wild and crazy. Good stuff. Really infectious melodies and arrangements. The vocals were exactly as fucked up as I was hoping for heh
-Anciients - Beyond the Reach of the Sun (9 / 10) Man this band is wonderful. This is really good. Dense and beautifully arranged. Love the use of acoustics to heighten the mood. Production is solid. Riffs are fucking slamming. Drums are out of this world. Good album.
-Leprous - Melodies of Atonement (9 / 10) Great record. Different from Aphelion in which this one is "Einar in the background" instead of "Einar needs a solo project" heh. Limbo might be the hookiest guitar hook all year. This was wonderful, I probably need to relisten.
-Nails - Every Bridge Burning (9 / 10) Good shit. Not as good as You Will Never Be One of Us but still slams.
-Elder - Live at Maida Vale Studios (9 / 10) Love this band. Good setlist, good production.
-Cold Gawd - I'll Drown On This Earth (9 / 10) Deftones meets Alcest. Excellent rec. Liked this a lot.
-Latter - My Body is My Sickness (9 / 10) Great EP! Cool songs and delivery.
-Unto Others - Never, Neverland (9 / 10) Great album. Really good songs, good production. This band is a lot of fun, great mix of The Cure and Ghost. Pet Sematary cover is great.
-Bewitcher - Shell Shock (9 / 10) Very fun record! Black metal & Roll! Good stuff. Reminds me of Midnight or Cloak. Dig it!
-The Black Dahlia Murder - Servitude (9 / 10) The masters are back at it. Pretty solid record. It's not a 10 because it seems like Brian is still finding his footing, but the guitar / bass / drums work on this are exceptional. Ryan Knight and Brandon Ellis bring it hard on the shred.
-Sungazer - Against the Fall of Night (9 / 10) This is great! Plini guest was unreal.
-Cosmic Putrefaction - Emerald Fires Atop the Farewell Mountains (9 / 10) Really good but not as spectacular as their last one. I agree with Zac heh. Still very very good.
-The Armed - Everlasting Gaze (9 / 10) Martyr Song might be the best The Armed song yet. Glorious. Not a bad EP.
-Better Lovers - Highly Irresponsible (9 / 10) Great record, I liked this a lot more than the EP and way more than Many Eyes. Riffs on riffs and Greg Puciato brining it.
-Gigan - Anomalous Abstractigate Infinitessimus (9 / 10) Wacky and crazy death metal. Good shit. Lots of interesting guitar work and frenetic drumming. Good vocals. Really cool song arrangements.
-Living Gate - Suffering As One (9 / 10) Supergroup of Yob, Wiegedood, Oathbreaker, and Amenra. Very good record. Interesting songs and great production
-Crippled Black Phoenix - The Wolf Changes Its Fur But Not Its Nature (9 / 10) Great album. Love the arrangements. Sounds like Julie Christmas on the vocals towards the end of the album.
-Thy Catalfaque - XII: A gyönyörű álmok ezután jönnek (9 / 10) Great album.
-Misanthropy - The Ever-Crushing Weight of Stagnance (9 / 10) The guitars are batshit. And the drums. Really cool song writing. Dig it a lot. Cooler than just a cookie cutter tech death.
-WHARFLURCH - Shittier / Slimier (9 / 10) unreleased demos compiled into a release. Cool tunes. I love this band.
+"2024." What can we say? Lot of life events happened, and music got me through them all.
+
+Continuing the trend of recent memory, we are in a thriving death metal revival and I am here for it.
+
+[last.fm](http://www.last.fm/user/karlgrz/library/albums?from=2025-02-07&to=2025-02-08)
+
+---
+
+On to my favorites...
+
+## 35.) Vemod - The Deepening
+![](/images/2025-02-13-my-favorite-records-of-2024/Vemod.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lm0LoZcw2luXcK-BbaZ4I-WGhghyKHoH0) | [Spotify](https://open.spotify.com/album/7HHqmpCFNWbays2hvMVAKW?si=449d695509c24584)
+
+Clean guitar and clean singing throughout. Incredibly well done arrangements. The first track was a very slow burn but it had me hooked by the end.
+
+## 34.) Pallbearer - Mind Burns Alive
+![](/images/2025-02-13-my-favorite-records-of-2024/Pallbearer.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_m7waJWeZP2PSFiLyD0b6txtepsUsmpC2E) | [Spotify](https://open.spotify.com/album/5ppoXtj1diskTKxHyuChWI?si=5cc03b7a22404421)
+
+Incredible record. They've really come into their own. Last couple records have been very strong progressions of song writing and performance. Love this one. And the Sax!!!
+
+## 33.) Wormwood - The Star
+![](/images/2025-02-13-my-favorite-records-of-2024/Wormwood.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nKVFhHcZpCz1byHNo-vdRnGhF3CxkaUa8) | [Spotify](https://open.spotify.com/album/5LJYblFx6TQQkXpmFnid89?si=4451a9b45ad0454c)
+
+Unexpected greatness. Lot of critics cite this one as being too fragmented and scatterbrained but I disagree, I love the writing and the concept and the production.
+
+## 32.) Sound&Shape - Pillars of Creation
+![](/images/2025-02-13-my-favorite-records-of-2024/SoundAndShape.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_m9Y3b8ERUjbP4TlnMkwcoKi8Yt0jWlvdk) | [Spotify](https://open.spotify.com/album/0loKSFCNkCSEAPzZoXgXzl?si=d2da874d342c44c9)
+
+Closest I've heard to El Cielo since...El Cielo, heh.
+
+## 31.) Autolith - Artificial Heaven
+![](/images/2025-02-13-my-favorite-records-of-2024/Autolith.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lD3o8sMXmcVBOOByrs_47ziYW582CLhSw) | [Spotify](https://open.spotify.com/album/6SzdIR8FDPAwavtxvjVp7Z?si=abb52658a33f432e)
+
+This reminded me a lot of Anti-God Hand from last year. Incredible album. Tons of range and the songwriting is outstanding.
+
+## 30.) Ætheria Conscientia - The Blossoming
+![](/images/2025-02-13-my-favorite-records-of-2024/AetheriaConscientia.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lrlibwyWjq1wiRXz7WGguvqlDmKPbokBU) | [Spotify](https://open.spotify.com/album/6tDTdPUAESjY7W7XXHQluY?si=1a56fa97a2f64fb8)
+
+Incredible songwriting and performances. Loved this.
+
+## 29.) Seth - La France des Maudits
+![](/images/2025-02-13-my-favorite-records-of-2024/Seth.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_n8P7KA_elZHHPngfcPBWPlMykQv7oPVDE) | [Spotify](https://open.spotify.com/album/4biENZnFfN7UjTHtMxTjvX?si=376ec059dd5740da)
+
+This is the goods. One of the better black metal records of the year.
+
+## 28.) Black Birch - S/T
+![](/images/2025-02-13-my-favorite-records-of-2024/BlackBirch.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kVnDvJz217ah7N_YqWl-dXQJt29xiGBpo) | [Spotify](https://open.spotify.com/album/1S8MZWq44EYj22tTDKcYob?si=d3396b27277e4138)
+
+Wonderful black metal record. Everything I want in the genre is on display here. Wild vocals, frenetic drums, lo fi but not terrible production, great guitar hooks.
+
+## 27.) Dawn Treader - Bloom & Decay
+![](/images/2025-02-13-my-favorite-records-of-2024/DawnTreader.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_k1wVm1X0jRfqWuIUBk1J8UicuTR1B_nxQ) | [Spotify](https://open.spotify.com/album/3UpbCkeH3w3XVNDHgik8kA?si=dea3f6315f2b4b2c)
+
+Dissonant and wonderfully filthy.
+
+## 26.) Pyrrhon - Exhaust
+![](/images/2025-02-13-my-favorite-records-of-2024/Pyrrhon.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_l8l4rN671UMu267jIK0-u59Hs3x3w6jwA) | [Spotify](https://open.spotify.com/album/6LR5BqfoHHYGSCg4C40Qnr?si=614b548858944198)
+
+Love this band. Organized chaos at it's finest. They really embrace and go all in on the weird riffs and polyrhythm stuff they do on this album.
+
+## 25.) Horna - Nyx (Hymnejä yölle)
+![](/images/2025-02-13-my-favorite-records-of-2024/Horna.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kLh0eRIksaR1gzaV8nk3DQyNCkut6HDsU) | [Spotify](https://open.spotify.com/album/3zyVDtjmtKuQepDpAo7yiX?si=7d960f71657f43e9)
+
+Oh baby. Wow. Unexpected greatness here. Some of the catchiest guitar riffs of the year. So good.
+
+## 24.) Glacial Tomb - Lightless Expanse
+![](/images/2025-02-13-my-favorite-records-of-2024/GlacialTomb.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mfbbKUm2h4cKtbjU1HzWMYwiaE-gWkE9Q) | [Spotify](https://open.spotify.com/album/1CNVy6iLkegaTZ1988b4Ni?si=f191f3e43c454bb2)
+
+Khemmis guitarist and bassist, great album. Riffs on riffs on riffs! And what is going on with this incredible album artwork?!
+
+## 23.) Gaerea - Coma
+![](/images/2025-02-13-my-favorite-records-of-2024/Gaerea.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_n_sXfUTdgXnPL5UHXoqK8DPUWbdLj5W78) | [Spotify](https://open.spotify.com/album/4i9i7I98VBon2pJOWBtbX1?si=9268c870c8b6430b)
+
+Incredible record. Huge growth on this one. This band has something special with the adrenaline in their song writing. Goose bumps all the time. Outstanding. Love this band.
+
+## 22.) Spectral Lore - IV (Part 1)
+![](/images/2025-02-13-my-favorite-records-of-2024/SpectralLore.jpg)
+[Bandcamp](https://spectrallore.bandcamp.com/album/iv-part-1)
+
+Incredible album. Looking forward to part 2. Arrangements and guitar work is wonderful, really interesting songwriting.
+
+## 21.) Spectral Wound - Songs of Blood and Mire
+![](/images/2025-02-13-my-favorite-records-of-2024/SpectralWound.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lndijt9qkWJPn0eN-8nn-M-eH4ohqEY94) | [Spotify](https://open.spotify.com/album/2AljWxmNh0mQPFAKAwKlIt?si=ac391d06ea3e4535)
+
+Great record. Loved this. Very interesting arrangements and guitar melodies. Good production for black metal (lofi but not shitty sounding.)
+
+## 20.) Replicant - Infinite Mortality
+![](/images/2025-02-13-my-favorite-records-of-2024/Replicant.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_ndDMWufvDbSIOFRxfHaD-Rxozet8CFwQg) | [Spotify](https://open.spotify.com/album/74ATExo0pciDQU4qxzgbJM?si=529d900c5a0546df)
+
+Good shit. This is really great dissonant death metal.
+
+## 19.) Night Verses - Every Sound Has a Color in the Valley of Night
+![](/images/2025-02-13-my-favorite-records-of-2024/NightVerses.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_loEbMa371mk7URFfRbtN3aB4MSz9rnxS8) | [Spotify](https://open.spotify.com/album/6vcoKJhkNPj3HeTOudcRLO?si=b79a8c0a4a11418e)
+
+Whoa. Second half of this was equally as incredible as the first. Makes the first part that much better and more impactful, in my opinion. Masterpiece.
+
+## 18.) Knocked Loose - You Won't Go Before You're Supposed To
+![](/images/2025-02-13-my-favorite-records-of-2024/KnockedLoose.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kIKIGNHqZjl6KvbVuKXthqyVxIrSNPuLQ) | [Spotify](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3?si=a4d1620fdca4476d)
+
+Wow. This blew me away. The Poppy feature that got nominated for a Grammy (Suffocate) is in the running for my favorite song of the year.
+
+## 17.) Black Curse - Burning in a Celestial Poison
+![](/images/2025-02-13-my-favorite-records-of-2024/BlackCurse.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_l0d229FBiq-OLWLL01BLhOMowMBY1_SXE) | [Spotify](https://open.spotify.com/album/28J6arbbo80DntlG4iayWI?si=c23a8ad4c53e4d13)
+
+Whoa, this is the goods. Frenetic and wonderful. Cool cast of characters, too.
+
+## 16.) Oak, Ash, & Thorn - Our Grief is Thus
+![](/images/2025-02-13-my-favorite-records-of-2024/OakAshAndThorn.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nlbF085PUQgNVQTXP7EGRZvJ8xGPPDE_A) | [Spotify](https://open.spotify.com/album/3Qgd9FmhpTLRKmUGtMpcRc?si=4a2ed3b7d05e4f9b)
+
+Not expecting this level of greatness. Reminds me a lot of Khemmis. Excellent record. Melodies, harmonies, drum heroics, this album has it all.
+
+## 15.) Huntsmen - The Dry Land
+![](/images/2025-02-13-my-favorite-records-of-2024/Huntsmen.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mKLBUCU0LpJG5x6IdqmaVm5cLG7OcJEVc) | [Spotify](https://open.spotify.com/album/6nS0L8bWPTkFuKdEy9j2Tz?si=2fd3b7f7d1db4f30)
+
+Whoa baby. Loved this. Incredible vocal harmonies, love the arrangements. Huge growth in songwriting from Mandala of Fear. Huge production.
+
+## 14.) Vale of Pnath - Between the Worlds of Life and Death
+![](/images/2025-02-13-my-favorite-records-of-2024/ValeOfPnath.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nPM2n02E4--Vaowu1ve8fND47CF3ispZw) | [Spotify](https://open.spotify.com/album/5Z8BLgcS7m6vycYBJzjhzo?si=ac91741ced404614)
+
+I expect we'll be celebrating the 10th anniversary of this album. Shred city.
+
+## 13.) Julie Christmas - Ridiculous and Full of Blood
+![](/images/2025-02-13-my-favorite-records-of-2024/JulieChristmas.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nzn0TpG5DVAWFFOm5XGdl1EUJ3dBJNGKU) | [Spotify](https://open.spotify.com/album/4nfF9AA2zA50pozCSaIX13?si=41ff626036f24c06)
+
+Big fan of Julie Christmas and this album has been wonderful. Supernatural is one of my favorite songs of the year. The Lighthouse is really good, too, with Johannes from Cult of Luna.
+
+## 12.) Job For a Cowboy - Moon Healer
+![](/images/2025-02-13-my-favorite-records-of-2024/JobForACowboy.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_k9OXS8tpkQLKayL4Jp4WZO08I4uW_iJN8) | [Spotify](https://open.spotify.com/album/2nYVbfF20AiedBTYcswFAW?si=97b1c6c48c86416d)
+
+Unexpectedly amazing. One of the proggiest metal releases of the year so far. Incredible rhythm section. Seriously. Outstanding record and a gigantic progression in their level of musicianship and songwriting.
+
+## 11.) Bedsore - Dreaming the Strife for Love
+![](/images/2025-02-13-my-favorite-records-of-2024/Bedsore.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kGwc6DWvA_8wt8OnIet1x6e-XcTWuU0iQ) | [Spotify](https://open.spotify.com/album/3KFaCfyta9b7t08QAXuI5P?si=7d4ebab3f7d04fde)
+
+Weird as fuck. Sounds like Ray Manzorek playing with Dog Fashion Disco, maybe. Great record. Weird in the best ways.
+
+## 10.) Slimelord - Chytridiomycosis Relinquished
+![](/images/2025-02-13-my-favorite-records-of-2024/Slimelord.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kL7PY_2hzgKBTuz9aATnM5IBcT_KOAo0I) | [Spotify](https://open.spotify.com/album/59htiEOknLAKuGr6dgdpVg?si=65dbae22d78a475e)
+
+Incredible. Right up my alley. Long death metal songs, heh. Filthy production, great riffs, great writing, really cool melodies. And that album artwork is something else.
+
+## 9.) Inter Arma - New Heaven
+![](/images/2025-02-13-my-favorite-records-of-2024/InterArma.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kMmxa8kZh747aCd9kHWMwfnKGusseQnVE) | [Spotify](https://open.spotify.com/album/0HB3RzsvBPT3s0MzSjbdU7?si=0eed8bbc2be74d77)
+
+I think I'd put it between Paradise Gallows and Sulphur English in my list of their discog favs. Wonderful record. This band continues to push themselves and prove why they are one of the best to do the damn thing.
+
+## 8.) Paysage D'Hiver - Die Berge
+![](/images/2025-02-13-my-favorite-records-of-2024/PaysageDHiver.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kVDySOqrw3TLYiIb8jbYXue7ZHt-S_nMk) | [Spotify](https://open.spotify.com/album/0p1qTZbgcKqnznB6aZiKmR?si=79f2ad93b174481e)
+
+First two tracks are perfect. Rest of the album is equally wonderful, but the first two could have been on their own and that would have been wonderful, too. Great album. That said, I like Im Wald better, I think. But this is second best overall in discography to me.
+
+## 7.) Oranssi Pazuzu - Muuntautuja
+![](/images/2025-02-13-my-favorite-records-of-2024/OranssiPazuzu.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_myO65Uo8arIlwg1K9Yt1byotSxcS30np4) | [Spotify](https://open.spotify.com/album/6cRCD79pIJvu5aeKWVtskd?si=20ef3aa5f0d34abf)
+
+This band is wacky and I am here for it. Great stuff. Weird as fuck and creepy as hell. Nightmare music.
+
+## 6.) SLIFT - ILION
+![](/images/2025-02-13-my-favorite-records-of-2024/Slift.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kpJjcL-HDkVpIwi6c5TSWi58NRqzotuDE) | [Spotify](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3?si=e0f22e1cb658459a)
+
+Wonderful Elder-like. Some truly wonderful guitar tones throughout. Great songs.
+
+## 5.) Vitriol - Suffer & Become
+![](/images/2025-02-13-my-favorite-records-of-2024/Vitriol.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_m5SEBB2jhkwuGg0b-hN3FfaKpm0nJB2W8) | [Spotify](https://open.spotify.com/album/0UnX0ja0G3MbEGZhEWhXk9?si=e22e977b49664a38)
+
+One of the best death metal records I've heard in a long time, and that's saying something. Incredible songwriting and performances. Kyle riffs so hard and flies all over the fretboard with ease and taste. Shame and it's Afterbirth might be the best death metal song I've heard in decades. Incredible. It's too bad they fell apart on the tour for this record.
+
+## 4.) Kendrick Lamar - GNX
+![](/images/2025-02-13-my-favorite-records-of-2024/KendrickLamar.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lONzr2WDx7bOXJWJNC1YloDy76sCBUHyw) | [Spotify](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW?si=oVeONXCTRGaxSzPFX3Vyeg)
+
+Solid. Not sure where this sits in his discography for me yet, time will tell...pretty high up there, though. wacced out murals, squabble up, tv off, peekaboo...whole album is bangers.
+
+## 3.) Cave Sermon - Divine Laughter
+![](/images/2025-02-13-my-favorite-records-of-2024/CaveSermon.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mSneYCMvUa4nPuCX3ZqfqPR1yr2M1ar-U) | [Spotify](https://open.spotify.com/album/26LoNV75PRYRIZBj89kLFn?si=391e283f48ec4c78)
+
+Whoa. Good shit. Great production and songwriting. Long songs! Lots of pretty parts amidst the savagery. There's something interesting this band does with rhythms and syncopations that you don't hear very often in progressive death metal. It's like they find a way to make the beat and rhythm it's own instrument, if that makes sense? This band should be huge.
+
+## 2.) Ulcerate - Cutting the Throat of God
+![](/images/2025-02-13-my-favorite-records-of-2024/Ulcerate.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_mKGnsqCLZ0ty4NDVUmJIvgj21wtzQV0e8) | [Spotify](https://open.spotify.com/album/2QNcQNDeIvL0EWOSP87iSm?si=PGHJjrC9QASd-GIOf92UyQ)
+
+BIG HYPE!!! This was outstanding. Dissonant death at it's finest. One of the best drumming performances of the year, maybe the decade. Outstanding record and, any other year, this gets my top spot. Alas...
+
+## 1.) Blood Incantation - Absolute Elsewhere
+![](/images/2025-02-13-my-favorite-records-of-2024/BloodIncantation.jpg)
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_m3LIJ3ftIsDg-XlVNYoGC-O851WAnkig8) | [Spotify](https://open.spotify.com/album/7hriIeLMviZKpNfcXgpsd8?si=163734eff6194418)
+
+Album of the year. Wow. Amazing record. What a journey! This is so dense. Great voyage. I love the guitars, synths, vocals, drums, bass, heh, everything about this is wonderful. Masterfully written and arranged. This record has everything I enjoy about interesting music. It leans in to the psychdelic synths for the right amount of time to leave them feeling impactful every time they rear their head to the foreground. Nothing about this feels forced or "extra" and everything fits. I used to describe Between the Buried and Me as the "Pink Floyd of Death Metal" but uh, Blood Incantation is that band now. One of the best albums I have ever heard, period. Cannot fathom where they go next, but I want to experience it. Album of the year, at least. Album of the decade? Only time will tell.
+
+# Honorable Mentions
+- Aborted - Vault of Horrors
+- Alcest - Les Chants de l'Aurore
+- Aureole - Alunarian Bellmaster
+- Austere - Beneath the Threshold
+- Benighted - Ekbom (9 / 10)
+- Better Lovers - Highly Irresponsible
+- Beyoncé - COWBOY CARTER
+- Bongripper - Empty
+- Borknager - Fall
+- Botanist - Paleobotany
+- Brume - Marten
+- CANDY - It's Inside You
+- Charli XCX - Brat
+- Chelsea Wolfe - She Reaches Out to She Reaches Out to She
+- Cognitive - Abhorrence
+- Cosmic Putrefaction - Emerald Fires Atop the Farewell Mountains
+- Dua Lipa - Radical Optimism
+- Doechii - Alligator Bites Never Heal
+- ERRA - CURE
+- Exocrine - Legend
+- Feind - Ambulante Hirnamputation
+- From Dying Suns - Calamity
+- Gatecreeper - Dark Superstition
+- Gigan - Anomalous Abstractigate Infinitessimus
+- Hemwick - Acedia
+- High on Fire - Cometh the Storm
+- Immortal Bird - Sin Querencia
+- Judas Priest - Invincible Shield
+- Julia Holter - Something in the Room She Moves
+- Kamasi Washington - Fearless Movement
+- Knoll - As Spoken
+- Krallice - Inorganic Rites
+- Leprous - Melodies of Atonement
+- Liminal Shroud - Visions of Collapse
+- Lord Dying - Clandestine Transcendance
+- Luciferian Rites - Oath of Midnight Ashes
+- meth. - SHAME
+- MONO - OATH
+- Nails - Every Bridge Burning
+- Necrowretch - Swords of Dajjal
+- Ohpen Ahrms - Lying Beside You
+- Opeth - The Last Will and Testament
+- Rendered Helpless - From Nothing Comes All
+- Resin Tomb - Cerebral Purgatory
+- Rezn - Burden
+- Rotting Christ - Pro Xristou
+- Scarcity - The Promise of Rain
+- Sons of Ra - Tropic of Cancer
+- Spectral Voice - Sparagmos
+- Squid Pisser - Dreams of Puke
+- Summoning the Lich - Under The Reviled Throne
+- Taylor Swift - THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY
+- The Black Dahlia Murder - Servitude
+- The Last of Lucy - Godform
+- Them Moose Rush - Zepaxia
+- Thou - Umbilical
+- Tyler, The Creator - CHROMAKOPIA
+- Undeath - More Insane
+- Vuur & Zijde - Boezum
+- White Stones - Memoria Viva
+- Witch Vomit - Funeral Sanctum
