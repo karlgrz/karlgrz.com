@@ -24,7 +24,7 @@ I'm in a few bands, some active, some not.
 - [BandCamp](https://whatweowethedead.bandcamp.com)
 - [Facebook](https://facebook.com/whatweowethedead)
 - [Instagram](https://instagram.com/whatweowethedead)
-- [YouTube] (https://youtube.com/whatweowethedead)
+- [YouTube](https://youtube.com/@whatweowethedead)
 
 ## Tides Cult 
 - [BandCamp](https://tidescult.bandcamp.com)
