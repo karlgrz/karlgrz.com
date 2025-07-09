@@ -20,36 +20,29 @@ Outside of coding, I write and record some music, sometimes it ends up on [Sound
 
 I'm in a few bands, some active, some not.
 
+## What We Owe The Dead
+- [BandCamp](https://whatweowethedead.bandcamp.com)
+- [Facebook](https://facebook.com/whatweowethedead)
+- [Instagram](https://instagram.com/whatweowethedead)
+- [YouTube] (https://youtube.com/whatweowethedead)
+
 ## Tides Cult 
-- [SoundCloud](https://soundcloud.com/tidescult)
 - [BandCamp](https://tidescult.bandcamp.com)
 - [Facebook](https://facebook.com/tidescult)
-- [Twitter](https://twitter.com/tidescult)
 - [Instagram](https://instagram.com/tidescult)
-- [Web](https://tidescult.com)
 
 ## Uncouth
-- [SoundCloud](https://soundcloud.com/uncouthchicago)
 - [BandCamp](https://uncouthchicago.bandcamp.com)
 - [Facebook](https://facebook.com/uncouthchicago)
-- [Twitter](https://twitter.com/uncouthchicago)
 - [Instagram](https://instagram.com/uncouthchicago)
-- [Web](https://uncouthchicago.com)
 
 ## About Thieves
-- [SoundCloud](https://soundcloud.com/aboutthieves)
+- [BandCamp](https://aboutthieves.bandcamp.com)
 - [Facebook](https://facebook.com/aboutthieves)
-- [Twitter](https://twitter.com/aboutthieves)
-
-## Filth Sermon
-- [SoundCloud](https://soundcloud.com/user-889121227)
-- [BandCamp](https://filthsermon.bandcamp.com)
-- [Facebook](https://facebook.com/filthsermon)
-- [Twitter](https://twitter.com/filthsermon)
 
 ## Subject to Change
-- [Reverbnation](https://reverbnation.com/STCTunes)
 - [Facebook](https://facebook.com/STCTunes)
+- [Reverbnation](https://reverbnation.com/STCTunes)
 
 ## Snakeoil Salesman
 - [BandCamp](https://snakeoilsalesman.bandcamp.com)
