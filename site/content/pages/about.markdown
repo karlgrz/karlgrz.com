@@ -7,7 +7,7 @@ title = "About"
 menu = "main"
 +++
 
-Hi! I'm a software engineer for [Mediafly](http://www.mediafly.com) in Chicago, IL. I've found myself enjoying learning about and using python, go, erlang, rust, and C# these days.
+Hi! I'm a software engineer for [Oneleet](https://www.oneleet.com). I've found myself enjoying go, python, rust, c#, erlang, and java these days.
 
 Reach out to me through the following avenues:
 
