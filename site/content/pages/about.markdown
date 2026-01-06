@@ -1,7 +1,7 @@
 +++
 author = "karlgrz"
 comments = false
-date = "2013-03-25T13:39:34"
+date = "2026-01-06T05:00:34"
 slug = "about"
 title = "About"
 menu = "main"
