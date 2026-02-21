@@ -8,7 +8,8 @@ records = []
 with open('my_favorite_records_data.csv') as csvfile:
     csvreader = csv.DictReader(csvfile, delimiter=',', quotechar='"')
     for row in csvreader:
-        if row["Score (out of 10)"] != "N/A" and float(row["Score (out of 10)"]) >= 8:
+        score = row["Score (out of 10)"]
+        if score and score != "N/A" and float(score) >= 9: 
             records.append(row)
 
 # Sort records by score in descending order
